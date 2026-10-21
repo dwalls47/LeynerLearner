@@ -1,0 +1,552 @@
+{
+  "format": 1,
+  "packVersion": "2026.10.20",
+  "description": "Leyner Learner data: Hebrew text, transliteration, reading schedules, English and font. Regenerate the file list with Tools\\DataManifest.",
+  "datasets": [
+    {
+      "folder": "MAM",
+      "name": "Miqra according to the Masorah (MAM-simple)",
+      "source": "https://github.com/bdenckla/MAM-basics/tree/202e69e8e063438b5faca0d73d20a5cde3d4fb61/MAM-simple",
+      "version": "202e69e8e063438b5faca0d73d20a5cde3d4fb61",
+      "spdx": "CC-BY-SA-4.0",
+      "license": "Creative Commons Attribution-ShareAlike 4.0; attribute Hebrew Wikisource, Miqra according to the Masorah",
+      "notes": "Unmodified MAM-simple JSON, versification chosen per book to match Hebcal (see README.md).",
+      "generated": {
+        "sheva-na.json": "Tools\\ShevaNaGenerator, from this folder and PhoneticMAM (same MAM-basics commit)"
+      },
+      "files": [
+        {
+          "path": "1Kgs-2Kgs.json",
+          "size": 779280,
+          "sha256": "b3f9acc27099ef0477d7a418f41871f088febcdbbcbdcc42f8d3575bcf65865e"
+        },
+        {
+          "path": "1Sam-2Sam.json",
+          "size": 807505,
+          "sha256": "a43d0276f802e7f23e0e1cd040d4b1c1b78e870c8b4a776d252da2a3d3a15564"
+        },
+        {
+          "path": "Deut.json",
+          "size": 468413,
+          "sha256": "e5846f6971f365b12209cc7d820cdc0116a27017e210c2b7788d054387774a5c"
+        },
+        {
+          "path": "Exod.json",
+          "size": 522712,
+          "sha256": "32f752e7f9e04ae95374c5640613613adc0962b7db513a3362de9b4e3cdb3fa4"
+        },
+        {
+          "path": "Ezek.json",
+          "size": 613935,
+          "sha256": "4181103e01898c132038ec41dfdbb03cf38c1d2499498b934f57c1edebf8ba6c"
+        },
+        {
+          "path": "Gen.json",
+          "size": 602818,
+          "sha256": "0e7f900b2162422e0a7e170ce4efd48d8668430b593e8296377f8109bbc36f33"
+        },
+        {
+          "path": "Hos-Mal.json",
+          "size": 444906,
+          "sha256": "54b9207b7eac6c32f81d30935d6c9ef5cd89a144def4690162ee1443e237518a"
+        },
+        {
+          "path": "Isa.json",
+          "size": 555595,
+          "sha256": "a1621c25f5370b4a7ed7d96d7ade75bb5aa83e1a8ab760be304c1201fed95997"
+        },
+        {
+          "path": "Jer.json",
+          "size": 715148,
+          "sha256": "74b3a9e0bd490b119ec57b38b5de06150936ed77175d700ab421ac6dc434ad08"
+        },
+        {
+          "path": "Josh.json",
+          "size": 320635,
+          "sha256": "5e34f0bcaf0d3affa89d3bef64ed2bcadb3ca7767cab1b5cd6a3eb7b4d43ea2b"
+        },
+        {
+          "path": "Judg.json",
+          "size": 310976,
+          "sha256": "b8c610ea8749634146761a5e3b6f437f5fa54f4e484641306d825b448808d771"
+        },
+        {
+          "path": "LICENSE.md",
+          "size": 1992,
+          "sha256": "a5182c592a89fc3ac64f2d75c63afe990aee66ee771f79405b4cbdb7061e37f7"
+        },
+        {
+          "path": "Lev.json",
+          "size": 349591,
+          "sha256": "7f5310a0e5b5e0786f1ad5715e3b8ea9ea7f35249ee0e8004caefa16c18ad492"
+        },
+        {
+          "path": "Num.json",
+          "size": 507256,
+          "sha256": "90173556fdd6077f5c3269f2eaa4b795162a0a2b6075c61c47e68652486351a1"
+        },
+        {
+          "path": "README.md",
+          "size": 2796,
+          "sha256": "466a4a6dbac1249534375e58ac42f7a4fcd609a44d0ce2462ebb037b379900aa"
+        },
+        {
+          "path": "sheva-na.json",
+          "size": 368550,
+          "sha256": "584a8edbfc109f09c5399ad6aed6df9f8e845f92b0359c8d001038028176c95e"
+        }
+      ]
+    },
+    {
+      "folder": "PhoneticMAM",
+      "name": "Phonetic MAM",
+      "source": "https://github.com/bdenckla/MAM-basics/tree/202e69e8e063438b5faca0d73d20a5cde3d4fb61/Phonetic-MAM",
+      "version": "202e69e8e063438b5faca0d73d20a5cde3d4fb61",
+      "date": "2026-10-20",
+      "spdx": "CC-BY-SA-4.0",
+      "license": "Creative Commons Attribution-ShareAlike 4.0; attribute Hebrew Wikisource (MAM) and Al-Hatorah Mikraot Gedolot",
+      "notes": "Unmodified copy of the Phonetic-MAM folder, all 39 books, without its examples folder (see SOURCE.md).",
+      "files": [
+        {
+          "path": "LICENSE.md",
+          "size": 2226,
+          "sha256": "58f53919ea291c3e68488133b0e4dc67a047fd52b8ce40d55300fea81af14a69"
+        },
+        {
+          "path": "README.md",
+          "size": 7654,
+          "sha256": "930a0601a30716df444cbb90bc868e4074a35a12ace29b0f87783e912400f609"
+        },
+        {
+          "path": "SOURCE.md",
+          "size": 2565,
+          "sha256": "a3ec2bb291d5427c63eef0add9975033542f90e154aabd6858b127f6745955d8"
+        },
+        {
+          "path": "data/A1-Genesis.json",
+          "size": 3813476,
+          "sha256": "f96f3aa2921ea0ab3fa56e7896e752d813ce762809d0040ad3634c227301d367"
+        },
+        {
+          "path": "data/A2-Exodus.json",
+          "size": 3139973,
+          "sha256": "f7354c616ed485faeb86a76de6cc353a19520014053c2968f6b8a07578521839"
+        },
+        {
+          "path": "data/A3-Levit.json",
+          "size": 2212301,
+          "sha256": "6c449767f55cc3fc8ee6b8eaac39eea5adbb1bab47ab07114c8a89c1b35c2875"
+        },
+        {
+          "path": "data/A4-Numbers.json",
+          "size": 3099493,
+          "sha256": "ab73a333de48ba504f7d10ff5cd1fcd970aeddf26c3abddea04d85e6091d17eb"
+        },
+        {
+          "path": "data/A5-Deuter.json",
+          "size": 2726853,
+          "sha256": "7cd5f0c21f483d63668193adcf1b20eaedd658236fc70e4af2bcdf6d2adcdb4c"
+        },
+        {
+          "path": "data/B1-Joshua.json",
+          "size": 1881558,
+          "sha256": "d9017f70c0044fd1d6649926a641f7e8ac848faf8f67299aa6236b5abe486e1b"
+        },
+        {
+          "path": "data/B2-Judges.json",
+          "size": 1841188,
+          "sha256": "f178fab8a655bbd575786a8f469440ef3f67452f10e4cdf01d37067444325586"
+        },
+        {
+          "path": "data/BA-1Samuel.json",
+          "size": 2469024,
+          "sha256": "7e30f868e4ed0ac31bf4e4e0963d4fb055eeeb89007ff8fb90630fd4d6543932"
+        },
+        {
+          "path": "data/BB-2Samuel.json",
+          "size": 2013410,
+          "sha256": "3f091a07de7b7b0b3148a99cce77ebf9e68c724406779d362c421801187e2abb"
+        },
+        {
+          "path": "data/BC-1Kings.json",
+          "size": 2432160,
+          "sha256": "5d74cbbd379238b4fe9c1e71c306a5394dd7a7ca095ba04fa684f2c157ff5726"
+        },
+        {
+          "path": "data/BD-2Kings.json",
+          "size": 2236108,
+          "sha256": "fcb2bbc1e4755ffe5f945961fc03f4c574ba0cecbe6bce674f1f0d7da6d45f69"
+        },
+        {
+          "path": "data/C1-Isaiah.json",
+          "size": 3299618,
+          "sha256": "8f436cec35504e020ffef3f5a1c51f489377c957798475cb6177a7373a0a5be3"
+        },
+        {
+          "path": "data/C2-Jeremiah.json",
+          "size": 4050399,
+          "sha256": "d9cc78dc1eb582d29192788a3fd3dd9675b2ab1227d2c230dd974cad947d3851"
+        },
+        {
+          "path": "data/C3-Ezekiel.json",
+          "size": 3609245,
+          "sha256": "da9d4b0b8ee3778e22190e5254beeb4253946661da1df1a68bfa3772d3bd1c18"
+        },
+        {
+          "path": "data/CA-Hosea.json",
+          "size": 464960,
+          "sha256": "4554e110e96123432dc4baf4cdb36810e0819abafc03c2b00bfd0ffa9ccf9be7"
+        },
+        {
+          "path": "data/CB-Joel.json",
+          "size": 185915,
+          "sha256": "4d3688a763fcba5016e2be87c59333b60169e6c2b026c493957cde18a882d04e"
+        },
+        {
+          "path": "data/CC-Amos.json",
+          "size": 389829,
+          "sha256": "516b4225ecb706001c8189af9130afb2a98399634c235a05d3cd0867e3767358"
+        },
+        {
+          "path": "data/CD-Obadiah.json",
+          "size": 55970,
+          "sha256": "cc27a07b85f3536383a463cf359727524f1dc6bda852e507ae02ef9e42a7348c"
+        },
+        {
+          "path": "data/CE-Jonah.json",
+          "size": 125774,
+          "sha256": "90e2ff1f11ec2b83d7534cc6d3aad83e5d33eab3f8d9ed7e589ba63b2fb676cc"
+        },
+        {
+          "path": "data/CF-Micah.json",
+          "size": 273876,
+          "sha256": "bb02dd8dfc5bf929fcb52ee000b8cd6da83a2da1c72e56a03f89d080c988b400"
+        },
+        {
+          "path": "data/CG-Nahum.json",
+          "size": 113301,
+          "sha256": "d735d873331631870e66438d6875f5f45a0dec49d441feebdfb2fb967994f272"
+        },
+        {
+          "path": "data/CH-Habakkuk.json",
+          "size": 131684,
+          "sha256": "207e06d8b1dd2d368d597984e4bd1d1bee6285eca6cf5288ee8da2234982c6a2"
+        },
+        {
+          "path": "data/CI-Tsefaniah.json",
+          "size": 144424,
+          "sha256": "2d9b51350d71f624b74a386113fe1df9ec970fd8a8c42a28884ca4d5a1193b69"
+        },
+        {
+          "path": "data/CJ-Haggai.json",
+          "size": 111549,
+          "sha256": "7852fb12025573d67f6de85b49a5e8d83ee2198767a48edd10af1a035041eeb4"
+        },
+        {
+          "path": "data/CK-Zechariah.json",
+          "size": 600050,
+          "sha256": "c194398e3dd29e010ee090f2c1946ec7f0398976cc3ce09813ae0e190e374fac"
+        },
+        {
+          "path": "data/CL-Malachi.json",
+          "size": 168726,
+          "sha256": "edbf00285b8b98eba1cee1bf2f273a3a40b75f0f664359976855c0b97d3a76ab"
+        },
+        {
+          "path": "data/D1-Psalms.json",
+          "size": 3924139,
+          "sha256": "58e8c32ec0407cb0cfa938fbfa3972ec36922ef6d5b4d1b3eef95ba8c0ade808"
+        },
+        {
+          "path": "data/D2-Proverbs.json",
+          "size": 1351153,
+          "sha256": "53187380e0f17b6553640f0cb96819d6da21852c53d10fe3485056206af67207"
+        },
+        {
+          "path": "data/D3-Job.json",
+          "size": 1603499,
+          "sha256": "d6966bbc198251e34a5ce02a44412224475059bbcfe2b7da3117bd8e6903e587"
+        },
+        {
+          "path": "data/E1-Song of Songs.json",
+          "size": 252273,
+          "sha256": "7d04c620524ea075e96fecc61e2a5b2083ec1d738601e8541a75c58acc7429c8"
+        },
+        {
+          "path": "data/E2-Ruth.json",
+          "size": 250264,
+          "sha256": "ba2a17096ef5821c9350e1bbcd485f48194432381cc0a0c226ccdea67d08889b"
+        },
+        {
+          "path": "data/E3-Lamentations.json",
+          "size": 310174,
+          "sha256": "5ae13a7b7ea4179a3ae5d7a4d02d8a92efc2d88044b7fb8237258dd72f8e0bb4"
+        },
+        {
+          "path": "data/E4-Ecclesiastes.json",
+          "size": 548583,
+          "sha256": "5ada223987bf9a99bbb0183db27292c46f5470af0f269bc5feeab7fb9f1f5fab"
+        },
+        {
+          "path": "data/E5-Esther.json",
+          "size": 566123,
+          "sha256": "fec3a755c2f460f720c6345dac4c40c35759246e164c30afad23410f36accb6a"
+        },
+        {
+          "path": "data/F1-Daniel.json",
+          "size": 1180581,
+          "sha256": "6dac4d29e7edc0de07cfd68c125eea220c0846d9ceb8461776c9d5ce59e36b64"
+        },
+        {
+          "path": "data/FA-Ezra.json",
+          "size": 762671,
+          "sha256": "05d0f207d28cbd30983d7f98a3ad3b247af98e11be76b428558730be971759ac"
+        },
+        {
+          "path": "data/FB-Nehemiah.json",
+          "size": 1044734,
+          "sha256": "bcc7136c6587ccda5b349a209d50163b109dd9a5f4785145ed9acca03df656c1"
+        },
+        {
+          "path": "data/FC-1Chronicles.json",
+          "size": 2115551,
+          "sha256": "18ec273be394506ff041ec6b0fd115885a9a7c16932e917da081207c116522aa"
+        },
+        {
+          "path": "data/FD-2Chronicles.json",
+          "size": 2532733,
+          "sha256": "708535bc32ee248fa22e0307021d7b1b29888cace40ae6421472a0793798c1ce"
+        },
+        {
+          "path": "schema/phonetic-mam-public-v1.schema.json",
+          "size": 8018,
+          "sha256": "70d6d2b99d578940a5609c1963013cf778841f7af6adc1cb58ee4d23824a8201"
+        }
+      ]
+    },
+    {
+      "folder": "Hebcal",
+      "name": "Hebcal reading schedules",
+      "source": "https://www.hebcal.com",
+      "version": "@hebcal/triennial 6.4.0, @hebcal/leyning 10.1.0",
+      "spdx": "BSD-2-Clause",
+      "license": "BSD 2-Clause (copyright hebcal; license text in README.md)",
+      "notes": "Unmodified JSON from the npm packages @hebcal/triennial and @hebcal/leyning.",
+      "files": [
+        {
+          "path": "README.md",
+          "size": 3417,
+          "sha256": "f435de4c533c8a49190fe939ffdea1f747898d46b8b33bcd9d341398e429d964"
+        },
+        {
+          "path": "aliyot.json",
+          "size": 37365,
+          "sha256": "3044b884ebd5cb8726b043e3ea8743af41275e29c432711654aee1ad633b4f62"
+        },
+        {
+          "path": "holiday-readings.json",
+          "size": 34290,
+          "sha256": "b0df8fe07ca3c2a46f0266c501c08c00b44c72b2624563377ea39629e8bd3a12"
+        },
+        {
+          "path": "tri-haft-holidays.json",
+          "size": 2761,
+          "sha256": "241599db27d2b391bb44b020e02e80e154eca0e1bebb7403fa65be184961bd53"
+        },
+        {
+          "path": "triennial-haft.json",
+          "size": 17377,
+          "sha256": "920552a4647b8221c9e2983d47d3182451f76a396befa51753b1a9ba7d452a8d"
+        },
+        {
+          "path": "triennial.json",
+          "size": 42644,
+          "sha256": "60f021e6a55d8efe21ed61d2ed219b68073100e0c64e4645a8666a38c560b71b"
+        }
+      ]
+    },
+    {
+      "folder": "English",
+      "name": "English, based on the World Messianic Bible",
+      "source": "https://eBible.org/find/details.php?id=engwmb",
+      "version": "August 2022 stable text",
+      "date": "2026-10-20",
+      "license": "Public domain (\"World Messianic Bible\" is a trademark; a changed text may not use the name)",
+      "notes": "Made from engwmb_vpl.zip (SHA-256 18a7519b8bf6a749e7b021281705214066d0b7d290998b589cdb2bcb7474900a), renumbered to the Hebrew versification of the MAM folder, with HaShem and G-d (see README.md).",
+      "generated": {
+        "*.txt": "Tools\\EnglishGenerator, from engwmb_vpl.txt and the MAM folder's versification"
+      },
+      "files": [
+        {
+          "path": "1Kgs.txt",
+          "size": 127103,
+          "sha256": "3cfc0350f6591a814b1f2377565ba03cbbf6c79932fe156dfa440067ee1830a4"
+        },
+        {
+          "path": "1Sam.txt",
+          "size": 129886,
+          "sha256": "a17c202a295d03b0ffb203e94795f07e9dadff38800ee25642dfebf96b08ed8b"
+        },
+        {
+          "path": "2Kgs.txt",
+          "size": 121779,
+          "sha256": "f1808a405ccd979624cb443ce117f5b27e96ce98afc0b06a4d476c5825562688"
+        },
+        {
+          "path": "2Sam.txt",
+          "size": 107282,
+          "sha256": "e1ee145823690934a14523ac284bdc180017d771abbea37349f85e5a6913b574"
+        },
+        {
+          "path": "Amos.txt",
+          "size": 22109,
+          "sha256": "f7dfbfacef6da938d29401c61fdf9044e7d3fdad53d6023d61c005601fc59879"
+        },
+        {
+          "path": "Deut.txt",
+          "size": 146398,
+          "sha256": "d8ad60569a1b6566b1724db7c2f2259ed3a223a1492fa90e66846c6c7edf76a8"
+        },
+        {
+          "path": "Exod.txt",
+          "size": 169736,
+          "sha256": "c5d087dc56aab74b30a9169cb0cd6361688c866572ce6d0b682db7162995261a"
+        },
+        {
+          "path": "Ezek.txt",
+          "size": 208086,
+          "sha256": "d329fb3e094f522496979d20148545a221026a2329171179fe4eb19a1745aad8"
+        },
+        {
+          "path": "Gen.txt",
+          "size": 200284,
+          "sha256": "89d365651b8201ab9243cf4ba3c8ddab6181f18aa2a15e0d72d0fdc3bd04e0c4"
+        },
+        {
+          "path": "Hab.txt",
+          "size": 7723,
+          "sha256": "1f46ee2cf0fdf1fd57d59d895a64ddf3fd18cd85cf6dc9a1408c5a2dc2b33335"
+        },
+        {
+          "path": "Hag.txt",
+          "size": 5803,
+          "sha256": "0a38cb7fb0c6f62be50182f40fb27198b3ca043eec05077ea0f78f33001ceb5a"
+        },
+        {
+          "path": "Hos.txt",
+          "size": 28080,
+          "sha256": "360ee0303c44acfb710588fa442634e0afe5cb505bfa4bf1b3d1b0900d67235a"
+        },
+        {
+          "path": "Isa.txt",
+          "size": 196424,
+          "sha256": "ebc65faa7946e2d4c4bc39e81b7ef80e446bca6e64a74a2f5cd6a9d108aac31a"
+        },
+        {
+          "path": "Jer.txt",
+          "size": 227861,
+          "sha256": "5e702a2280573dc3875efeda3c39d7d2363df9af323b215c427a4f6620b2cddd"
+        },
+        {
+          "path": "Joel.txt",
+          "size": 10757,
+          "sha256": "dff7ee243db580274a0febcb5dd025e2b9b88a1c9aa321dff21e4882d848d656"
+        },
+        {
+          "path": "Jonah.txt",
+          "size": 6772,
+          "sha256": "25a4a3704bc5b5676fd38fc9e9569c4cdcff5c7319ab1d7959784e0be672a651"
+        },
+        {
+          "path": "Josh.txt",
+          "size": 99884,
+          "sha256": "0d6be535d7a211f5ef902ba42f3e926f6bd640274284c14737e01749800068fc"
+        },
+        {
+          "path": "Judg.txt",
+          "size": 98991,
+          "sha256": "14ac824024d1544c871790dded73887419784d17a665fe005e1f46826362e949"
+        },
+        {
+          "path": "Lev.txt",
+          "size": 127517,
+          "sha256": "4ddc8c6ab069d6ee206f386df40b9253de285a67f6d96496558243041b879c0f"
+        },
+        {
+          "path": "Mal.txt",
+          "size": 9387,
+          "sha256": "e1cad25a59482a04ba65db0db9a943da392e9d49a7ac8366564f8763f2e1b1f1"
+        },
+        {
+          "path": "Mic.txt",
+          "size": 16146,
+          "sha256": "5c9dafb1587be5f7cdbb86d34cc151476c9e68f0d826239cdb09a84c423911fd"
+        },
+        {
+          "path": "Nah.txt",
+          "size": 6759,
+          "sha256": "9d25ef60aeff869eb40973845a872ce70016baa3e00a52874acfc82289585a4e"
+        },
+        {
+          "path": "Num.txt",
+          "size": 175951,
+          "sha256": "fda9aa0d5c626422d7504282ea41b3b0683e4b6673dda41f57ba1f37a8deb900"
+        },
+        {
+          "path": "Obad.txt",
+          "size": 3440,
+          "sha256": "92fb6632e53f2d38201d19d9bfab1d0f104efb1f9e86bf94a605d21b31e45a7e"
+        },
+        {
+          "path": "README.md",
+          "size": 2331,
+          "sha256": "91c3b06845d939c26a2023bae021e9246376a471590cf4aa6cb4e9b428703a0c"
+        },
+        {
+          "path": "Zech.txt",
+          "size": 32780,
+          "sha256": "7602cf6caf79dc2580ac51da43ce2fae4199508b4bdec82898ee1483da30e7c5"
+        },
+        {
+          "path": "Zeph.txt",
+          "size": 8542,
+          "sha256": "87f10f41d0fe18a7eb52a4b699b086526053da0a7c6c07a08883f42dcfd30740"
+        }
+      ]
+    },
+    {
+      "folder": "Fonts",
+      "name": "Hebrew Sheva Na (Taamey D 0.921 with a large sounded-sheva glyph)",
+      "source": "https://github.com/bdenckla/MAM-basics (in/font-support/taamey-d-0.921/); corresponding source in Tools\\ShevaNaFont",
+      "version": "Taamey D 0.921",
+      "spdx": "GPL-2.0-only WITH Font-exception-2.0",
+      "license": "GNU GPL version 2 with the font-embedding exception; Reserved Font Name \"Taamey D\"",
+      "notes": "Built from the published Taamey_D.woff2 (SHA-256 5cc8df8ae3311b91e506edbb294561f6f0e39ebe4260bdb972c90902186c2474) with one added glyph (see README.md).",
+      "generated": {
+        "HebrewShevaNa.ttf": "Tools\\ShevaNaFont\\build_font.py, from Taamey_D.woff2"
+      },
+      "files": [
+        {
+          "path": "FONT-NOTICE.txt",
+          "size": 1463,
+          "sha256": "25f37bd8a9785e2112994bb0583e6068aab610546b195dfbeb8b93c4ef79b9e1"
+        },
+        {
+          "path": "GPL-2.0.txt",
+          "size": 17984,
+          "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+        },
+        {
+          "path": "HebrewShevaNa.ttf",
+          "size": 41120,
+          "sha256": "f0f0933ee3c5320da8222fb5f6b1d32486bacc48578e7a25e01e3f0dcf87d194"
+        },
+        {
+          "path": "README.md",
+          "size": 1467,
+          "sha256": "79e336b8db72b0721903e4c1737c2c949d768c2cd542129691f49d2dae027587"
+        }
+      ]
+    }
+  ]
+}

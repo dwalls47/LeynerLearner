@@ -205,6 +205,32 @@ namespace LeynerLearner
             h.Text("Tools\\EnglishGenerator makes the files from eBible.org's download, so a newer edition can be brought in the " +
                    "same way; Data\\English\\README.md has the details.");
 
+            h.Subheading("JPS 1917 Modern");
+            h.Text("Choosing **JPS 1917 Modern** in the **English** list shows the same JPS 1917 translation with its " +
+                   "old-fashioned English put into modern English. It is made by this app, not published by the Jewish " +
+                   "Publication Society, and is dedicated to the public domain (CC0) like the text it comes from. " +
+                   "Folder: Data\\EnglishModern.");
+            h.Text("A tool in this project (Tools\\EnglishModernizer) applies a fixed list of rules, so every change can be " +
+                   "listed and checked, and the result is the same each time:");
+            h.Bullet("**Pronouns:** thou, thee and ye become you; thy becomes your; thine and mine become your/yours and my/mine. " +
+                     "Capitals for G-d are kept (Thou becomes You).");
+            h.Bullet("**Verbs:** \"thou knowest\" becomes \"you know\", \"he cometh\" becomes \"he comes\", \"hath\" becomes " +
+                     "\"has\". \"Shall\" becomes \"will\", except in commands addressed to you (\"You shall not murder\"). " +
+                     "The \"thou\" of a command is dropped: \"be thou strong\" becomes \"be strong\".");
+            h.Bullet("**Words and phrases:** unto becomes to, thereof becomes of it, wherefore becomes why or therefore, " +
+                     "\"it came to pass\" becomes \"it happened\", \"I pray thee\" becomes \"please\", \"behold\" is dropped " +
+                     "inside a sentence or becomes \"Look,\" at its start, and old words such as brethren, kine and raiment " +
+                     "become brothers, cows and clothes. Spelling is American (neighbor, honor).");
+            h.Bullet("**Sentence forms:** \"fear not\" becomes \"do not fear\", \"knew not\" becomes \"did not know\", \"G-d did " +
+                     "prove Abraham\" becomes \"G-d proved Abraham\", \"Joab is fled\" becomes \"Joab has fled\", and \"Make thee an " +
+                     "ark\" becomes \"Make yourself an ark\".");
+            h.Text("About 170 verses that the rules can't handle well were edited by hand (for example \"did compass it round " +
+                   "about\" becomes \"encircled it\"). Each hand edit is listed in Tools\\EnglishModernizer\\polish-edits.tsv. " +
+                   "Sentence order is kept, so a few verses keep a formal ring. Many of the rules follow the choices of Adam " +
+                   "Cohn's \"Modernized Tanakh\", which modernizes JPS 1917 for Genesis and Jonah.");
+            h.Bullet("**Adam Cohn's Modernized Tanakh** (on Sefaria, CC-BY): https://www.sefaria.org/Genesis.1?ven=Modernized_Tanakh_-_Based_on_JPS_1917,_Edited_by_Adam_Cohn ; " +
+                     "his site: http://modernizedtanakh.blogspot.com");
+
             h.Subheading("PDF and printing");
             h.Text("PDFs and printouts are made with QuestPDF (Community license), which shapes Hebrew vowels and trope with " +
                    "HarfBuzz, so they match what you see on screen.");

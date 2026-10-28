@@ -62,13 +62,13 @@ public static class RtfRenderer
                       .Append(Transliteration(v.Phonetic!, o.Transliteration)).Append(' ');
                 sb.Append(@"\par");
             }
-            var withEnglish = section.Verses.Where(v => v.English != null).ToList();
-            if (o.English && withEnglish.Count > 0)
+            var withEnglish = section.Verses.Where(v => v.EnglishFor(o.English) != null).ToList();
+            if (withEnglish.Count > 0)
             {
                 sb.Append(englishPara).Append(@"\sa160 ");
                 foreach (var v in withEnglish)
                     sb.Append(@"{\fs").Append(small).Append(' ').Append(Escape($"{v.Chapter}:{v.Number}")).Append(@"} ")
-                      .Append(Escape(v.English!)).Append(' ');
+                      .Append(Escape(v.EnglishFor(o.English)!)).Append(' ');
                 sb.Append(@"\cf1\par");
             }
         }

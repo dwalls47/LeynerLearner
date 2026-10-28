@@ -1,0 +1,1726 @@
+Changes (from -> to, count):
+  shall -> will                          5417
+  unto -> to                             5398
+  thou -> you                            3233
+  thy -> your                            3058
+  thee -> you                            2419
+  ye -> you                              1900
+  upon -> on                             1879
+  shalt -> shall                         1355
+  hath -> has                            1208
+  saith -> says                           903
+  thereof -> of it                        751
+  hast -> have                            554
+  forth -> out                            495
+  behold,  -> look,                       433
+  came to pass -> happened                342
+  thine -> your                           281
+  dwell -> live                           237
+  mine -> my                              212
+  smote -> struck                         199
+  art -> are                              197
+  and, behold,  -> and                    194
+  in the midst of -> in the middle of     189
+  brethren -> brothers                    184
+  yea -> indeed                           183
+  therein -> in it                        172
+  , behold,  -> ,                         159
+  dwelt -> lived                          156
+  didst -> did                            151
+  hearken -> listen                       145
+  come to pass -> happen                  140
+  slain -> killed                         129
+  wilt -> will                            126
+  shall -> should                         124
+  midst -> middle                         122
+  wherewith -> with which                 112
+  doth -> does                            110
+  wherein -> in which                     108
+  , i pray thee, -> , please,             107
+  smite -> strike                         107
+  cometh -> comes                         105
+  slew -> killed                          104
+  thyself -> yourself                     103
+  hearkened -> listened                   102
+  wherefore -> why                        101
+  arose -> rose                           100
+  forth out -> out                         95
+  whither -> where                         92
+  neighbour -> neighbor                    90
+  wherefore -> therefore                   86
+  slay -> kill                             84
+  ass -> donkey                            76
+  begot -> fathered                        75
+  mayest -> may                            74
+  thither -> there                         71
+  whatsoever -> whatever                   67
+  stead -> place                           66
+  corn -> grain                            65
+  liveth -> lives                          63
+  from thence -> from there                63
+  whosoever -> whoever                     63
+  giveth -> gives                          63
+  did eat -> ate                           62
+  are come -> have come                    60
+  smitten -> struck                        59
+  is come -> has come                      59
+  goeth -> goes                            58
+  favour -> favor                          51
+  asses -> donkeys                         51
+  behold  -> look,                         50
+  maketh -> makes                          50
+  behold -> see                            47
+  wast -> were                             45
+  thereon -> on it                         45
+  savour -> savor                          45
+  was come -> had come                     42
+  let not -> do not let                    42
+  howbeit -> however                       42
+  fear not -> do not fear                  42
+  to-day -> today                          41
+  knowest -> know                          40
+  goest -> go                              40
+  and, lo,  -> and                         37
+  toucheth -> touches                      37
+  dost -> do                               35
+  wroth -> angry                           35
+  are gone -> have gone                    35
+  thence -> from there                     34
+  listened not -> did not listen           34
+  knew not -> did not know                 34
+  shouldest -> should                      33
+  nay -> no                                33
+  hither -> here                           33
+  nought -> nothing                        33
+  damsel -> young woman                    32
+  forasmuch as -> since                    32
+  lad -> boy                               32
+  know not -> do not know                  31
+  and behold  -> and                       31
+  whereof -> of which                      30
+  raiment -> clothes                       30
+  armour -> armor                          30
+  doeth -> does                            30
+  honour -> honor                          29
+  thine -> yours                           29
+  to-morrow -> tomorrow                    29
+  bringeth -> brings                       29
+  peradventure -> perhaps                  28
+  called his name -> named him             28
+  knoweth -> knows                         27
+  whereon -> on which                      27
+  aught -> anything                        27
+  exceeding -> very                        26
+  passeth -> passes                        25
+  taketh -> takes                          25
+  is gone -> has gone                      24
+  therewith -> with it                     24
+  dwelleth -> lives                        24
+  kine -> cows                             24
+  eateth -> eats                           24
+  , i pray you, -> , please,               23
+  seeth -> sees                            23
+  seest -> see                             23
+  are become -> have become                23
+  wouldest -> would                        22
+  were come -> had come                    22
+  speaketh -> speaks                       22
+  heareth -> hears                         22
+  hear ye -> hear                          22
+  digged -> dug                            22
+  , lo,  -> ,                              21
+  lo,  -> look,                            21
+  remaineth -> remains                     21
+  doest -> do                              20
+  is become -> has become                  20
+  builded -> built                         20
+  beheld -> saw                            20
+  whence -> from where                     20
+  be thou -> be                            19
+  camest -> came                           19
+  called the name of -> named              19
+  comest -> come                           19
+  here am i -> here i am                   19
+  whereby -> by which                      19
+  causeth -> causes                        19
+  saidst -> said                           18
+  thereby -> by it                         18
+  was gone -> had gone                     18
+  looketh -> looks                         18
+  sitteth -> sits                          17
+  whithersoever -> wherever                17
+  valour -> valor                          17
+  labour -> labor                          17
+  die not -> do not die                    17
+  canst -> can                             17
+  verily -> truly                          16
+  go not -> do not go                      16
+  go ye -> go                              16
+  seemeth -> seems                         16
+  departed not -> did not depart           16
+  colours -> colors                        16
+  turned not -> did not turn               15
+  whereupon -> after which                 15
+  get you up -> get up                     15
+  seeketh -> seeks                         15
+  killeth -> kills                         15
+  turneth -> turns                         15
+  went not -> did not go                   14
+  belongeth -> belongs                     14
+  , we pray thee, -> , please,             14
+  come ye -> come                          14
+  sojourneth -> sojourns                   14
+  firmament -> expanse                     14
+  get thee  -> go                          13
+  hence -> from here                       13
+  be ye -> be                              13
+  vale -> valley                           13
+  pertaineth -> pertains                   13
+  saviour -> savior                        13
+  make thee -> make yourself               13
+  dwellings -> homes                       13
+  offereth -> offers                       13
+  take thee -> take yourself               12
+  came not -> did not come                 12
+  honourable -> honorable                  12
+  exceedingly -> greatly                   12
+  whomsoever -> whoever                    12
+  affrighted -> afraid                     12
+  falleth -> falls                         12
+  standeth -> stands                       12
+  thereto -> to it                         12
+  whoso -> whoever                         12
+  covereth -> covers                       12
+  betwixt -> between                       12
+  listen not -> do not listen              11
+  i pray thee -> please                    11
+  take ye -> take                          11
+  smiteth -> strikes                       11
+  loveth -> loves                          11
+  favoured -> favored                      11
+  kindred -> family                        11
+  victuals -> food                         10
+  calleth -> calls                         10
+  putteth -> puts                          10
+  walketh -> walks                         10
+  hadst -> had                             10
+  from whence -> from where                10
+  is fallen -> has fallen                  10
+  burneth -> burns                         10
+  dwellest -> live                         10
+  beareth -> bears                         10
+  gathereth -> gathers                     10
+  hear thou -> hear                         9
+  sayest -> say                             9
+  i pray thee,  -> please                   9
+  speakest -> speak                         9
+  wentest -> went                           9
+  puttest -> put                            9
+  say ye -> say                             9
+  sittest -> sit                            9
+  are fallen -> have fallen                 9
+  devoureth -> devours                      9
+  take thou -> take                         9
+  treadeth -> treads                        9
+  creepeth -> creeps                        9
+  makest -> make                            9
+  faileth -> fails                          9
+  sinneth -> sins                           8
+  am come -> have come                      8
+  keepeth -> keeps                          8
+  herdmen -> herdsmen                       8
+  speak not -> do not speak                 8
+  are fled -> have fled                     8
+  setteth -> sets                           8
+  riseth -> rises                           8
+  make you -> make yourselves               8
+  parteth -> parts                          8
+  cheweth -> chews                          8
+  openeth -> opens                          8
+  come not -> do not come                   8
+  colour -> color                           8
+  did set -> set                            7
+  desireth -> desires                       7
+  was returned -> had returned              7
+  get you down -> get down                  7
+  was fallen -> had fallen                  7
+  aileth -> ails                            7
+  turn not -> do not turn                   7
+  twain -> two                              7
+  neighbours -> neighbors                   7
+  rumour -> rumor                           7
+  groweth -> grows                          7
+  mourneth -> mourns                        7
+  come thou -> come                         7
+  return ye -> return                       7
+  hateth -> hates                           7
+  draweth -> draws                          7
+  fear you not -> do not fear               7
+  see not -> do not see                     7
+  say thou -> say                           7
+  entereth -> enters                        7
+  savoury -> tasty                          7
+  he not -> not he                          6
+  seekest -> seek                           6
+  escapeth -> escapes                       6
+  did send -> sent                          6
+  was departed -> had departed              6
+  meaneth -> means                          6
+  see ye -> see                             6
+  were gone -> had gone                     6
+  ere -> before                             6
+  turn ye -> turn                           6
+  trustest -> trust                         6
+  know you not -> do you not know           6
+  abideth -> abides                         6
+  get you -> get yourselves                 6
+  appeareth -> appears                      6
+  commanded not -> not commanded            6
+  refuseth -> refuses                       6
+  spreadeth -> spreads                      6
+  get you  -> go                            6
+  curseth -> curses                         6
+  ceaseth -> ceases                         6
+  fadeth -> fades                           6
+  fleeth -> flees                           6
+  languisheth -> languishes                 6
+  declare ye -> declare                     6
+  laboured -> labored                       6
+  drove not -> did not drive                6
+  blow ye -> blow                           5
+  did bear -> bore                          5
+  is fled -> has fled                       5
+  knew it not -> did not know it            5
+  springeth -> springs                      5
+  gavest -> gave                            5
+  broughtest -> brought                     5
+  returned not -> did not return            5
+  ariseth -> arises                         5
+  speak thou -> speak                       5
+  is departed -> has departed               5
+  walked not -> did not walk                5
+  found them not -> did not find them       5
+  let us not -> do not let us               5
+  look not -> do not look                   5
+  mightest -> might                         5
+  dealeth -> deals                          5
+  saw not -> did not see                    5
+  wheresoever -> wherever                   5
+  followeth -> follows                      5
+  opened not -> did not open                5
+  heardest -> heard                         5
+  arise ye -> arise                         5
+  holdeth -> holds                          5
+  rideth -> rides                           5
+  declareth -> declares                     5
+  seek ye -> seek                           5
+  buildeth -> builds                        5
+  took not -> did not take                  5
+  asketh -> asks                            5
+  did make -> made                          5
+  defile not -> do not defile               5
+  departeth -> departs                      5
+  takest -> take                            5
+  get you out -> get out                    5
+  eat not -> do not eat                     5
+  i not -> not i                            5
+  committeth -> commits                     5
+  swarmeth -> swarms                        5
+  am become -> have become                  5
+  breaketh -> breaks                        5
+  trusteth -> trusts                        5
+  begotten -> fathered                      5
+  trembleth -> trembles                     5
+  announceth -> announces                   5
+  delighteth -> delights                    5
+  reacheth -> reaches                       5
+  voweth -> vows                            5
+  did swear -> swore                        4
+  bringest -> bring                         4
+  passest -> pass                           4
+  walkest -> walk                           4
+  called the name thereof -> named it       4
+  sendeth -> sends                          4
+  hitherto -> until now                     4
+  did call -> called                        4
+  died not -> did not die                   4
+  told not -> did not tell                  4
+  repenteth -> repents                      4
+  sawest -> saw                             4
+  fighteth -> fights                        4
+  criest -> cry                             4
+  was fled -> had fled                      4
+  divineth -> divines                       4
+  sendest -> send                           4
+  was grown -> had grown                    4
+  go thou -> go                             4
+  feared not -> did not fear                4
+  eat ye -> eat                             4
+  drink ye -> drink                         4
+  commandeth -> commands                    4
+  be gone -> have gone                      4
+  is risen -> has risen                     4
+  do show -> show                           4
+  let me not -> do not let me               4
+  uttereth -> utters                        4
+  prophesy not -> do not prophesy           4
+  pass ye -> pass                           4
+  slayeth -> kills                          4
+  hated him not -> did not hate him         4
+  drinketh -> drinks                        4
+  blesseth -> blesses                       4
+  useth -> uses                             4
+  did trust -> trusted                      4
+  stirreth -> stirs                         4
+  let them not -> do not let them           4
+  remained not -> did not remain            4
+  take you -> take yourselves               4
+  splendour -> splendor                     4
+  journeyed not -> did not journey          4
+  compasseth -> compasses                   4
+  shaketh -> shakes                         4
+  rejoiceth -> rejoices                     4
+  moveth -> moves                           4
+  make ye -> make                           4
+  hasteth -> hasts                          4
+  layeth -> lays                            4
+  is passed -> has passed                   4
+  moaneth -> moans                          4
+  pursueth -> pursues                       4
+  sweareth -> swears                        4
+  quaketh -> quakes                         4
+  were passed -> had passed                 4
+  drew not -> did not draw                  4
+  do make -> make                           4
+  called not -> did not call                3
+  reigneth -> reigns                        3
+  spokest -> spoke                          3
+  hearken thou -> hearken                   3
+  hearest -> hear                           3
+  believed not -> did not believe           3
+  did cleave -> cleaved                     3
+  get you from here -> get from here        3
+  answereth -> answers                      3
+  choose you -> choose yourselves           3
+  make not -> do not make                   3
+  are departed -> have departed             3
+  eatest -> eat                             3
+  lifteth -> lifts                          3
+  hide it not -> do not hide it             3
+  straightway -> immediately                3
+  stand thou -> stand                       3
+  saveth -> saves                           3
+  comes not -> does not come                3
+  turn you not -> do not turn               3
+  leadeth -> leads                          3
+  heard not -> did not hear                 3
+  bring ye -> bring                         3
+  lacketh -> lacks                          3
+  to-night -> tonight                       3
+  spoke not -> did not speak                3
+  stay not -> do not stay                   3
+  layest -> lay                             3
+  damsels -> young women                    3
+  did bake -> baked                         3
+  let him not -> do not let him             3
+  answer him not -> do not answer him       3
+  leaneth -> leans                          3
+  pass not -> do not pass                   3
+  stood not -> did not stand                3
+  tell ye -> tell                           3
+  getteth -> gets                           3
+  did go -> went                            3
+  be grown -> have grown                    3
+  were fled -> had fled                     3
+  set ye -> set                             3
+  were departed -> had departed             3
+  lovest -> love                            3
+  did cast -> cast                          3
+  liest -> li                               3
+  proceedeth -> proceeds                    3
+  from hence -> from here                   3
+  did bring -> brought                      3
+  regardeth -> regards                      3
+  regards not -> does not regard            3
+  givest -> give                            3
+  delivereth -> delivers                    3
+  found not -> did not find                 3
+  cometh to pass -> happens                 3
+  are passed -> have passed                 3
+  coucheth -> couches                       3
+  standest -> stand                         3
+  did see -> saw                            3
+  speak ye -> speak                         3
+  bring thou -> bring                       3
+  sacrificeth -> sacrifices                 3
+  tarry ye -> tarry                         3
+  fear them not -> do not fear them         3
+  awaketh -> awakes                         3
+  hear not -> do not hear                   3
+  did take -> took                          3
+  madest -> made                            3
+  considereth -> considers                  3
+  returneth -> returns                      3
+  lay not -> do not lay                     3
+  meeteth -> meets                          3
+  honoured -> honored                       3
+  looked not -> did not look                3
+  bring him not -> do not bring him         3
+  divideth -> divides                       3
+  floweth -> flows                          3
+  stretcheth -> stretches                   3
+  rejoice not -> do not rejoice             3
+  striveth -> strives                       3
+  worshippeth -> worships                   3
+  boweth -> bows                            3
+  kindleth -> kindles                       3
+  fainteth -> faints                        3
+  deviseth -> devises                       3
+  withereth -> withers                      3
+  bloweth -> blows                          3
+  worketh -> works                          3
+  flee ye -> flee                           3
+  trust you not -> do not trust             3
+  pray not -> do not pray                   3
+  triest -> try                             3
+  sent them not -> did not send them        3
+  ask ye -> ask                             3
+  profane not -> do not profane             3
+  blasphemeth -> blasphemes                 3
+  serveth -> serves                         3
+  get thee -> get yourself                  2
+  talkest -> talk                           2
+  know it not -> do not know it             2
+  feareth -> fears                          2
+  deny me not -> do not deny me             2
+  did walk -> walked                        2
+  keepest -> keep                           2
+  did speak -> spoke                        2
+  prayeth -> prays                          2
+  do sin -> sin                             2
+  kept not -> did not keep                  2
+  were grown -> had grown                   2
+  oft -> often                              2
+  am gone -> have gone                      2
+  call ye -> call                           2
+  sleepeth -> sleeps                        2
+  did turn -> turned                        2
+  did curse -> cursed                       2
+  did give -> gave                          2
+  humbleth -> humbles                       2
+  did let -> let                            2
+  kill us not -> do not kill us             2
+  prepare you -> prepare yourselves         2
+  did put -> put                            2
+  told him not -> did not tell him          2
+  did hide -> hid                           2
+  sin not -> do not sin                     2
+  did rejoice -> rejoiced                   2
+  discloseth -> discloses                   2
+  deserveth -> deserves                     2
+  turn thou -> turn                         2
+  hideth -> hides                           2
+  be risen -> have risen                    2
+  escaped not -> did not escape             2
+  hold ye -> hold                           2
+  i pray thee  -> please                    2
+  telleth -> tells                          2
+  was risen -> had risen                    2
+  weepeth -> weeps                          2
+  tarry not -> do not tarry                 2
+  driveth -> drives                         2
+  look ye -> look                           2
+  let her not -> do not let her             2
+  put not -> do not put                     2
+  did offer -> offered                      2
+  save thou -> save                         2
+  is grown -> has grown                     2
+  showed them not -> did not show them      2
+  tell it not -> do not tell it             2
+  gird you -> gird yourselves               2
+  becamest -> became                        2
+  livest -> live                            2
+  encourage thou -> encourage               2
+  hide not -> do not hide                   2
+  return thou -> return                     2
+  hatest -> hate                            2
+  did fly -> flew                           2
+  letteth -> lets                           2
+  executeth -> executes                     2
+  showeth -> shows                          2
+  attained not -> did not attain            2
+  remembered not -> did not remember        2
+  handleth -> handles                       2
+  createth -> creates                       2
+  poureth -> pours                          2
+  reproveth -> reproves                     2
+  did flee -> fled                          2
+  we not -> not we                          2
+  melteth -> melts                          2
+  thereunto -> to it                        2
+  fear him not -> do not fear him           2
+  stoodest -> stood                         2
+  risest -> rise                            2
+  knewest -> knew                           2
+  chasteneth -> chastens                    2
+  does drive -> drives                      2
+  did break -> broke                        2
+  careth -> cares                           2
+  lettest -> let                            2
+  lighteth -> lights                        2
+  buildest -> build                         2
+  bring not -> do not bring                 2
+  writeth -> writes                         2
+  becometh -> becomes                       2
+  do lend -> lend                           2
+  gatherest -> gather                       2
+  dishonoureth -> dishonours                2
+  perverteth -> perverts                    2
+  confirmeth -> confirms                    2
+  did wax -> waxed                          2
+  does make -> makes                        2
+  did prove -> proved                       2
+  rise not -> do not rise                   2
+  enlargeth -> enlarges                     2
+  teareth -> tears                          2
+  dealest -> deal                           2
+  amidst -> amid                            2
+  be come -> have come                      2
+  dasheth -> dashes                         2
+  did blow -> blew                          2
+  sing ye -> sing                           2
+  healeth -> heals                          2
+  gather ye -> gather                       2
+  abide ye -> abide                         2
+  stealeth -> steals                        2
+  selleth -> sells                          2
+  sowest -> sow                             2
+  numberest -> number                       2
+  profaneth -> profanes                     2
+  put ye -> put                             2
+  did anoint -> anointed                    2
+  do send -> send                           2
+  findest -> find                           2
+  forbeareth -> forbears                    2
+  and lo  -> and                            2
+  sees not -> does not see                  2
+  prepare thee -> prepare yourself          2
+  inquireth -> inquires                     2
+  did increase -> increased                 2
+  did play -> played                        2
+  loatheth -> loathes                       2
+  do say -> say                             2
+  wail ye -> wail                           2
+  fed not -> did not feed                   2
+  was ascended -> had ascended              2
+  erreth -> errs                            2
+  findeth -> finds                          2
+  do bring -> bring                         2
+  and behold,  -> and                       2
+  teemeth -> teems                          2
+  stay ye -> stay                           2
+  pleaseth -> pleases                       2
+  let it not -> do not let it               2
+  flee thou -> flee                         2
+  put them not -> do not put them           2
+  brought not -> did not bring              2
+  i pray you -> please                      2
+  regard not -> do not regard               2
+  fall not -> do not fall                   2
+  believed them not -> did not believe them      2
+  begettest -> beget                        2
+  lads -> boys                              2
+  increaseth -> increases                   2
+  earneth -> earns                          2
+  knows it not -> does not know it          2
+  teacheth -> teaches                       2
+  spareth -> spares                         2
+  heweth -> hews                            2
+  prepare ye -> prepare                     2
+  howleth -> howls                          2
+  spoileth -> spoils                        2
+  give ye -> give                           2
+  dreameth -> dreams                        2
+  helpeth -> helps                          2
+  walk ye -> walk                           2
+  bindeth -> binds                          2
+  comfort ye -> comfort                     2
+  clear ye -> clear                         2
+  tellest -> tell                           2
+  chooseth -> chooses                       2
+  fear thou -> fear                         2
+  hears not -> does not hear                2
+  marketh -> marks                          2
+  warmeth -> warms                          2
+  command ye -> command                     2
+  wakeneth -> wakens                        2
+  comforteth -> comforts                    2
+  fearest -> fear                           2
+  pleadeth -> pleads                        2
+  depart ye -> depart                       2
+  spare not -> do not spare                 2
+  keep ye -> keep                           2
+  waiteth -> waits                          2
+  asked not -> did not ask                  2
+  delighted not -> did not delight          2
+  rejoice ye -> rejoice                     2
+  say not -> do not say                     2
+  declineth -> declines                     2
+  welleth -> wells                          2
+  oppress not -> do not oppress             2
+  commanded not -> did not command          2
+  consider ye -> consider                   2
+  cutteth -> cuts                           2
+  leave us not -> do not leave us           2
+  praise ye -> praise                       2
+  repented not -> did not repent            2
+  build ye -> build                         2
+  commanded them not -> did not command them      2
+  travaileth -> travails                    2
+  killed them not -> did not kill them      2
+  were returned -> had returned             2
+  seek them not -> do not seek them         2
+  shew -> show                              2
+  perish not -> do not perish               2
+  rebel not -> do not rebel                 2
+  serve ye -> serve                         2
+  bless ye -> bless                         2
+  did arise -> arose                        2
+  curse ye -> curse                         2
+  lappeth -> laps                           2
+  are risen -> have risen                   2
+  trusted not -> did not trust              2
+  saved me not -> did not save me           2
+  be fallen -> have fallen                  2
+  consecrateth -> consecrates               2
+  knew her not -> did not know her          1
+  turnest -> turn                           1
+  oughtest -> ought                         1
+  hold him not -> do not hold him           1
+  build thee -> build yourself              1
+  did fashion -> fashioned                  1
+  did compass -> compassed                  1
+  am risen -> have risen                    1
+  did promise -> promised                   1
+  do afflict -> afflict                     1
+  teachest -> teach                         1
+  sins not -> does not sin                  1
+  pleased him not -> did not please him      1
+  told her not -> did not tell her          1
+  make thou -> make                         1
+  feignest -> feign                         1
+  sweepeth -> sweeps                        1
+  arise thou -> arise                       1
+  left not -> did not leave                 1
+  left him not -> did not leave him         1
+  lose not -> do not lose                   1
+  found you not -> did not find you         1
+  denied him not -> did not deny him        1
+  girdeth -> girds                          1
+  take it not -> do not take it             1
+  put thou -> put                           1
+  weepest -> weep                           1
+  count not -> do not count                 1
+  exulteth -> exults                        1
+  multiply not -> do not multiply           1
+  raiseth -> raises                         1
+  do spread -> spread                       1
+  honourest -> honour                       1
+  rebuked them not -> did not rebuke them      1
+  send it not -> do not send it             1
+  do return -> return                       1
+  cease not -> do not cease                 1
+  does bless -> blesses                     1
+  set not -> do not set                     1
+  spare them not -> do not spare them       1
+  do taunt -> taunt                         1
+  saves not -> does not save                1
+  inquire thou -> inquire                   1
+  desires not -> does not desire            1
+  save not -> do not save                   1
+  disclose it not -> do not disclose it      1
+  slewest -> slew                           1
+  abide thou -> abide                       1
+  delivered him not -> did not deliver him      1
+  privily -> secretly                       1
+  suffered them not -> did not suffer them      1
+  hearkenest -> listen                      1
+  killed you not -> did you not kill        1
+  gird ye -> gird                           1
+  destroy him not -> do not destroy him      1
+  does hunt -> hunts                        1
+  displease not -> do not displease         1
+  killed not -> did not kill                1
+  are returned -> have returned             1
+  does rest -> rests                        1
+  found him not -> did not find him         1
+  borrow not -> do not borrow               1
+  live thou -> live                         1
+  salute him not -> do not salute him       1
+  knew them not -> did not know them        1
+  meetest -> meet                           1
+  lay ye -> lay                             1
+  bestoweth -> bestows                      1
+  repair you not -> do not repair you       1
+  reckoned not -> did not reckon            1
+  stayed not -> did not stay                1
+  did impute -> imputed                     1
+  served him not -> did not serve him       1
+  persuadeth -> persuades                   1
+  wipeth -> wipes                           1
+  did humble -> humbled                     1
+  were fallen -> had fallen                 1
+  publish it not -> do not publish it       1
+  chargest -> charge                        1
+  uncovereth -> uncovers                    1
+  did establish -> established              1
+  confirm thou -> confirm                   1
+  were become -> had become                 1
+  retire ye -> retire                       1
+  knew you not -> did you not know          1
+  did fast -> fasted                        1
+  did rise -> rose                          1
+  take not -> do not take                   1
+  mark ye -> mark                           1
+  anoint not -> do not anoint               1
+  went you not -> did you not go            1
+  lodge not -> do not lodge                 1
+  lacked not -> did not lack                1
+  grieveth -> grieves                       1
+  does sit -> sits                          1
+  struck him not -> did not strike him      1
+  favoureth -> favours                      1
+  do hear -> hear                           1
+  quench not -> do not quench               1
+  savest -> save                            1
+  do save -> save                           1
+  traineth -> trains                        1
+  did stamp -> stamped                      1
+  did tread -> trod                         1
+  liftest -> lift                           1
+  deliverest -> deliver                     1
+  ruleth -> rules                           1
+  number ye -> number                       1
+  choose thee -> choose yourself            1
+  roareth -> roars                          1
+  did pursue -> pursued                     1
+  creaketh -> creaks                        1
+  revealeth -> reveals                      1
+  rescueth -> rescues                       1
+  caused it not -> did it not cause         1
+  rained not -> did not rain                1
+  formeth -> forms                          1
+  seek not -> do not seek                   1
+  darkeneth -> darkens                      1
+  sinketh -> sinks                          1
+  soweth -> sows                            1
+  dread not -> do not dread                 1
+  does bear -> bears                        1
+  command thou -> command                   1
+  contend not -> do not contend             1
+  rise ye -> rise                           1
+  did hear -> heard                         1
+  made not -> did not make                  1
+  does speak -> speaks                      1
+  repayeth -> repays                        1
+  waxed not -> did not wax                  1
+  forget thou -> forget                     1
+  forget not -> do not forget               1
+  destroy not -> do not destroy             1
+  does execute -> executes                  1
+  love ye -> love                           1
+  did sow -> sowed                          1
+  did water -> watered                      1
+  offer not -> do not offer                 1
+  vowest -> vow                             1
+  forsake not -> do not forsake             1
+  dispossessest -> dispossess               1
+  inquire not -> do not inquire             1
+  do love -> love                           1
+  part not -> do not part                   1
+  wanteth -> wants                          1
+  fareth -> fares                           1
+  sacrificest -> sacrifice                  1
+  consulteth -> consults                    1
+  did desire -> desired                     1
+  do succeed -> succeed                     1
+  fetcheth -> fetches                       1
+  slippeth -> slips                         1
+  drawest -> draw                           1
+  breatheth -> breaths                      1
+  teach you not -> do not teach you         1
+  suffer not -> do not suffer               1
+  carriest -> carry                         1
+  know him not -> do not know him           1
+  coverest -> cover                         1
+  cried not -> did not cry                  1
+  met you not -> did not meet you           1
+  chanceth -> chances                       1
+  liketh -> likes                           1
+  reapest -> reap                           1
+  beatest -> beat                           1
+  do possess -> possess                     1
+  removeth -> removes                       1
+  confirms not -> does not confirm          1
+  gropeth -> gropes                         1
+  swoopeth -> swoops                        1
+  teach thou -> teach                       1
+  ascribe ye -> ascribe                     1
+  hovereth -> hovers                        1
+  drankest -> drank                         1
+  did grow -> grew                          1
+  did become -> became                      1
+  dreaded not -> did not dread              1
+  did forget -> forgot                      1
+  does avenge -> avenges                    1
+  does render -> renders                    1
+  leapeth -> leaps                          1
+  possess thou -> possess                   1
+  befalleth -> befalls                      1
+  smitest -> strike                         1
+  thinkest -> think                         1
+  draw not -> do not draw                   1
+  exaltest -> exalt                         1
+  regarded not -> did not regard            1
+  does put -> puts                          1
+  led them not -> did not lead them         1
+  lift thou -> lift                         1
+  overthrowest -> overthrow                 1
+  consumeth -> consumes                     1
+  stretchedst -> stretched                  1
+  plantest -> plant                         1
+  did mete -> meted                         1
+  smotest -> smote                          1
+  soundeth -> sounds                        1
+  did charge -> charged                     1
+  please not -> do not please               1
+  lie not -> do not lie                     1
+  loseth -> loses                           1
+  blindeth -> blinds                        1
+  worship ye -> worship                     1
+  laid not -> did not lay                   1
+  bear not -> do not bear                   1
+  dresseth -> dresses                       1
+  compoundeth -> compounds                  1
+  carry us not -> do not carry us           1
+  observe thou -> observe                   1
+  do sacrifice -> sacrifice                 1
+  write thou -> write                       1
+  did bind -> bound                         1
+  do live -> live                           1
+  consent not -> do not consent             1
+  give him not -> do not give him           1
+  does turn -> turns                        1
+  do strike -> strike                       1
+  provoketh -> provokes                     1
+  sees us not -> does not see us            1
+  cause ye -> cause                         1
+  dig thou -> dig                           1
+  prophesy thou -> prophesy                 1
+  separateth -> separates                   1
+  did pour -> poured                        1
+  enhanceth -> enhances                     1
+  committest -> commit                      1
+  did solicit -> solicited                  1
+  did deal -> dealt                         1
+  walk you not -> do not walk               1
+  sighest -> sigh                           1
+  sheddest -> shed                          1
+  did wash -> washed                        1
+  taught not -> did not teach               1
+  poured it not -> did not pour it          1
+  cover not -> do not cover                 1
+  did fill -> filled                        1
+  breakest -> break                         1
+  do break -> break                         1
+  do drive -> drive                         1
+  do leave -> leave                         1
+  did gush -> gushed                        1
+  did trouble -> troubled                   1
+  swimmest -> swim                          1
+  blow not -> do not blow                   1
+  writest -> write                          1
+  do prepare -> prepare                     1
+  did purify -> purified                    1
+  sanctify not -> do not sanctify           1
+  bring them not -> do not bring them       1
+  were risen -> had risen                   1
+  be passed -> have passed                  1
+  does know -> knows                        1
+  amongst -> among                          1
+  tillest -> till                           1
+  called their name -> named them           1
+  sheddeth -> sheds                         1
+  laughed not -> did not laugh              1
+  did laugh -> laughed                      1
+  i pray you,  -> please                    1
+  hasten thou -> hasten                     1
+  restore her not -> do not restore her      1
+  beware thou -> beware                     1
+  give her not -> do not give her           1
+  do prosper -> prosper                     1
+  delay me not -> do not delay me           1
+  did settle -> settled                     1
+  badest -> bade                            1
+  discerned him not -> did not discern him      1
+  pleased not -> did not please             1
+  water ye -> water                         1
+  called her name -> named her              1
+  suffered him not -> did not suffer him      1
+  did vow -> vowed                          1
+  prevailed not -> did not prevail          1
+  needeth -> needs                          1
+  i pray you  -> please                     1
+  longeth -> longs                          1
+  trade ye -> trade                         1
+  deferred not -> did not defer             1
+  found her not -> did not find her         1
+  gave her not -> did not give her          1
+  did interpret -> interpreted              1
+  sent not -> did not send                  1
+  knew him not -> did not know him          1
+  hasten ye -> hasten                       1
+  sold not -> did not sell                  1
+  became not -> did not become              1
+  bury me not -> do not bury me             1
+  defiledst -> defiled                      1
+  washeth -> washes                         1
+  biteth -> bites                           1
+  raveneth -> ravens                        1
+  lookest -> look                           1
+  swalloweth -> swallows                    1
+  heapeth -> heaps                          1
+  ladeth -> lades                           1
+  gaineth -> gains                          1
+  establisheth -> establishes               1
+  drink thou -> drink                       1
+  profiteth -> profits                      1
+  beholdeth -> sees                         1
+  do tremble -> tremble                     1
+  do cleave -> cleave                       1
+  marchest -> march                         1
+  threshest -> thresh                       1
+  woundest -> wound                         1
+  invadeth -> invades                       1
+  did fear -> feared                        1
+  did work -> worked                        1
+  does languish -> languishes               1
+  watereth -> waters                        1
+  mixeth -> mixes                           1
+  accepteth -> accepts                      1
+  accepts them not -> does not accept them      1
+  did know -> knew                          1
+  delight not -> do not delight             1
+  judge not -> do not judge                 1
+  lowereth -> lowers                        1
+  cease ye -> cease                         1
+  bare -> bore                              1
+  understand not -> do not understand       1
+  perceive not -> do not perceive           1
+  speedeth -> speeds                        1
+  say you not -> do not say                 1
+  does set -> sets                          1
+  turns not -> does not turn                1
+  does cut -> cuts                          1
+  snatcheth -> snatches                     1
+  means not -> does not mean                1
+  wasteth -> wasts                          1
+  cry thou -> cry                           1
+  comfortest -> comfort                     1
+  mustereth -> musters                      1
+  howl ye -> howl                           1
+  do answer -> answer                       1
+  send ye -> send                           1
+  judgeth -> judges                         1
+  reapeth -> reaps                          1
+  gleaneth -> gleans                        1
+  did plant -> planted                      1
+  staggereth -> staggers                    1
+  purposeth -> purposes                     1
+  inquire ye -> inquire                     1
+  did meet -> met                           1
+  strain not -> do not strain               1
+  did look -> looked                        1
+  hewest -> hew                             1
+  gravest -> grave                          1
+  scattereth -> scatters                    1
+  endeth -> ends                            1
+  drink not -> do not drink                 1
+  tottereth -> totters                      1
+  reeleth -> reels                          1
+  swayeth -> sways                          1
+  did subdue -> subdued                     1
+  swimmeth -> swims                         1
+  open ye -> open                           1
+  enter thou -> enter                       1
+  do guard -> guard                         1
+  do contend -> contend                     1
+  casteth -> casts                          1
+  believeth -> believes                     1
+  does instruct -> instructs                1
+  does teach -> teaches                     1
+  add ye -> add                             1
+  made me not -> did not make me            1
+  protecteth -> protects                    1
+  spoilest -> spoil                         1
+  dealt not -> did not deal                 1
+  despiseth -> despises                     1
+  stoppeth -> stops                         1
+  shutteth -> shuts                         1
+  strengthen ye -> strengthen               1
+  do moan -> moan                           1
+  feedeth -> feeds                          1
+  hear you not -> do you not hear           1
+  attendeth -> attends                      1
+  treads not -> does not tread              1
+  smootheth -> smooths                      1
+  does inhabit -> inhabits                  1
+  observest -> observe                      1
+  observe not -> do not observe             1
+  laid it not -> did not lay it             1
+  keep not -> do not keep                   1
+  remember you not -> do not remember       1
+  blotteth -> blots                         1
+  declare thou -> declare                   1
+  fashioneth -> fashions                    1
+  fitteth -> fits                           1
+  strengtheneth -> strengthens              1
+  planteth -> plants                        1
+  baketh -> bakes                           1
+  roasteth -> roasts                        1
+  does glorify -> glorifies                 1
+  frustrateth -> frustrates                 1
+  performeth -> performs                    1
+  travailest -> travail                     1
+  hidest -> hide                            1
+  created it not -> did not create it       1
+  stoopeth -> stoops                        1
+  sit thou -> sit                           1
+  did show -> showed                        1
+  heard them not -> did not hear them       1
+  cut you not -> do not cut you             1
+  thirsted not -> did not thirst            1
+  contendeth -> contends                    1
+  hid not -> did not hide                   1
+  obeyeth -> obeys                          1
+  esteemed him not -> did not esteem him      1
+  did esteem -> esteemed                    1
+  thirsteth -> thirsts                      1
+  perisheth -> perishes                     1
+  lovedst -> loved                          1
+  did find -> found                         1
+  inhabiteth -> inhabits                    1
+  enwrappeth -> enwraps                     1
+  forsook not -> did not forsake            1
+  fast not -> do not fast                   1
+  muttereth -> mutters                      1
+  adorneth -> adorns                        1
+  espouseth -> espouses                     1
+  knows us not -> does not know us          1
+  hardenest -> harden                       1
+  borest -> bore                            1
+  do fade -> fade                           1
+  destroy it not -> do not destroy it       1
+  rendereth -> renders                      1
+  snuffeth -> snuffs                        1
+  refusedst -> refused                      1
+  sow not -> do not sow                     1
+  clothest -> cloth                         1
+  deckest -> deck                           1
+  gaspeth -> gasps                          1
+  run ye -> run                             1
+  watcheth -> watches                       1
+  neigheth -> neighs                        1
+  understandest -> understand               1
+  fear you not -> do you not fear           1
+  plead not -> do not plead                 1
+  hew ye -> hew                             1
+  stand ye -> stand                         1
+  gird thee -> gird yourself                1
+  shed not -> do not shed                   1
+  rusheth -> rushes                         1
+  are grown -> have grown                   1
+  acteth -> acts                            1
+  is entered -> has entered                 1
+  understandeth -> understands              1
+  learn not -> do not learn                 1
+  move not -> do not move                   1
+  befitteth -> befits                       1
+  abidest -> abide                          1
+  call not -> do not call                   1
+  rejoicest -> rejoice                      1
+  showedst -> showed                        1
+  judgest -> judge                          1
+  believe them not -> do not believe them      1
+  profit not -> do not profit               1
+  put it not -> do not put it               1
+  cleaveth -> cleaves                       1
+  sit ye -> sit                             1
+  calveth -> calves                         1
+  forsaketh -> forsakes                     1
+  work thou -> work                         1
+  knew it not -> did it not know            1
+  break not -> do not break                 1
+  return not -> do not return               1
+  droopeth -> droops                        1
+  take me not -> do not take me             1
+  sat not -> did not sit                    1
+  enter not -> do not enter                 1
+  broodeth -> broods                        1
+  hallow ye -> hallow                       1
+  deal thou -> deal                         1
+  forgive not -> do not forgive             1
+  mocketh -> mocks                          1
+  killed me not -> did not kill me          1
+  execute ye -> execute                     1
+  weep you not -> do not weep               1
+  strivest -> strive                        1
+  hearkenedst -> hearkened                  1
+  hearkened not -> did not listen           1
+  write ye -> write                         1
+  do tell -> tell                           1
+  does roar -> roars                        1
+  does plead -> pleads                      1
+  despoileth -> despoils                    1
+  diminish not -> do not diminish           1
+  listen you not -> do not listen           1
+  multiply ye -> multiply                   1
+  sent him not -> did not send him          1
+  does travail -> travails                  1
+  deemeth -> deems                          1
+  seek you not -> do not seek you           1
+  announce ye -> announce                   1
+  does gather -> gathers                    1
+  redeemeth -> redeems                      1
+  yearneth -> yearns                        1
+  showest -> show                           1
+  recompensest -> recompense                1
+  commandedst -> commanded                  1
+  endureth -> endures                       1
+  counteth -> counts                        1
+  deceive not -> do not deceive             1
+  fallest -> fall                           1
+  cause me not -> do not cause me           1
+  weakeneth -> weakens                      1
+  seeks not -> does not seek                1
+  do see -> see                             1
+  go you not -> do not go                   1
+  foldeth -> folds                          1
+  came it not -> did it not come            1
+  did say -> said                           1
+  waggest -> wag                            1
+  gloriest -> glory                         1
+  wandereth -> wanders                      1
+  pertained not -> did not pertain          1
+  conceal not -> do not conceal             1
+  destroy ye -> destroy                     1
+  spare you not -> do not spare             1
+  destroyest -> destroy                     1
+  runneth -> runs                           1
+  stand not -> do not stand                 1
+  destroyeth -> destroys                    1
+  sanctify ye -> sanctify                   1
+  blazeth -> blazes                         1
+  entangle not -> do not entangle           1
+  give not -> do not give                   1
+  proclaim ye -> proclaim                   1
+  haste ye -> haste                         1
+  tread ye -> tread                         1
+  sleepest -> sleep                         1
+  repentest -> repent                       1
+  do give -> give                           1
+  commandest -> command                     1
+  are entered -> have entered               1
+  tell not -> do not tell                   1
+  be returned -> have returned              1
+  overfloweth -> overflows                  1
+  did circumcise -> circumcised             1
+  was become -> had become                  1
+  struck them not -> did not strike them      1
+  slack not -> do not slack                 1
+  hasted not -> did not haste               1
+  suffer them not -> do not suffer them      1
+  failed not -> did not fail                1
+  perished not -> did not perish            1
+  save us not -> do not save us             1
+  built not -> did not build                1
+  planted not -> did not plant              1
+  suffered not -> did not suffer            1
+  does come -> comes                        1
+  sattest -> sat                            1
+  depart not -> do not depart               1
+  did taunt -> taunted                      1
+  rise thou -> rise                         1
+  rule thou -> rule                         1
+  reign thou -> reign                       1
+  cheereth -> cheers                        1
+  bore not -> did not bear                  1
+  asked him not -> did not ask him          1
+  askest -> ask                             1
+  told them not -> did not tell them        1
+  love me not -> do not love me             1
+  weavest -> weave                          1
+  resteth -> rests                          1
+  did utter -> uttered                      1
+  humble ye -> humble                       1
+  sufficed them not -> did not suffice them      1
+  appertaineth -> appertains                1
+  assemble thou -> assemble                 1
+  be departed -> have departed              1
+  cleanseth -> cleanses                     1
+  owneth -> owns                            1
+  wash them not -> do not wash them         1
+  did visit -> visited                      1
+  put him not -> do not put him             1
+  vomit you not -> do not vomit             1
+  do offer -> offer                         1
+  approacheth -> approaches                 1
+  is returned -> has returned               1
+  valuest -> value                          1
+  execrateth -> execrates                   1
+  honoureth -> honours                      1
+  insomuch -> so much                       1
+  receiveth -> receives                     1
+  deal not -> do not deal                   1
+  change not -> do not change               1
+  remember ye -> remember                   1
+  weep not -> do not weep                   1
+  changeth -> changes                       1
+  halteth -> halts                          1
+  contend thou -> contend                   1
+  does require -> requires                  1
+  put you not -> do not put                 1
+  am fallen -> have fallen                  1
+  pardoneth -> pardons                      1
+  retaineth -> retains                      1
+  avengeth -> avenges                       1
+  reserveth -> reserves                     1
+  rebuketh -> rebukes                       1
+  counselleth -> counsels                   1
+  restoreth -> restores                     1
+  bethinketh -> bethinks                    1
+  appoint thou -> appoint                   1
+  cut you not -> do not cut                 1
+  offer thou -> offer                       1
+  oppresseth -> oppresses                   1
+  bear it not -> do not bear it             1
+  do speak -> speak                         1
+  send thou -> send                         1
+  sentest -> sent                           1
+  preparest -> prepare                      1
+  lift ye -> lift                           1
+  does choose -> chooses                    1
+  scatter thou -> scatter                   1
+  fare not -> do not fare                   1
+  purify not -> do not purify               1
+  sprinkleth -> sprinkles                   1
+  inclineth -> inclines                     1
+  licketh -> licks                          1
+  blessest -> bless                         1
+  cursest -> curse                          1
+  came you not -> did you not come          1
+  slay ye -> slay                           1
+  consumed not -> did not consume           1
+  disallowed her not -> did not disallow her      1
+  arm ye -> arm                             1
+  encamp ye -> encamp                       1
+  bring us not -> do not bring us           1
+  build you -> build yourselves             1
+  inheriteth -> inherits                    1
+  polluteth -> pollutes                     1
+  possesseth -> possesses                   1
+  did stand -> stood                        1
+  proclaim thou -> proclaim                 1
+  did lift -> lifted                        1
+  did build -> built                        1
+  leaveth -> leaves                         1
+  stumbleth -> stumbles                     1
+  received not -> did not receive           1
+  leave not -> do not leave                 1
+  fails not -> does not fail                1
+
+Possibly archaic forms left (review):
+  Lo                            6
+  hareseth                      2
+  dishonest                     2
+  basshebeth                    1
+  lowliest                      1
+  beseth                        1
+  neediest                      1
+
+Sample verses:
+1Kgs 1:2
+  JPS 1917: Wherefore his servants said unto him: 'Let there be sought for my lord the king a young virgin; and let her stand before the king, and be a companion unto him; and let her lie in thy bosom, that my lord the king may get heat.'
+  Modern:   Therefore his servants said to him: 'Let there be sought for my lord the king a young virgin; and let her stand before the king, and be a companion to him; and let her lie in your bosom, that my lord the king may get heat.'
+1Kgs 3:20
+  JPS 1917: And she arose at midnight, and took my son from beside me, while thy handmaid slept, and laid it in her bosom, and laid her dead child in my bosom.
+  Modern:   And she rose at midnight, and took my son from beside me, while your handmaid slept, and laid it in her bosom, and laid her dead child in my bosom.
+1Kgs 8:40
+  JPS 1917: that they may fear Thee all the days that they live in the land which Thou gavest unto our fathers.
+  Modern:   that they may fear You all the days that they live in the land which You gave to our fathers.
+1Kgs 12:25
+  JPS 1917: Then Jeroboam built Shechem in the hill-country of Ephraim, and dwelt therein; and he went out from thence, and built Penuel.
+  Modern:   Then Jeroboam built Shechem in the hill-country of Ephraim, and lived in it; and he went out from there, and built Penuel.
+1Kgs 17:10
+  JPS 1917: So he arose and went to Zarephath; and when he came to the gate of the city, behold, a widow was there gathering sticks; and he called to her, and said: 'Fetch me, I pray thee, a little water in a vessel, that I may drink.'
+  Modern:   So he rose and went to Zarephath; and when he came to the gate of the city, a widow was there gathering sticks; and he called to her, and said: 'Fetch me, please, a little water in a vessel, that I may drink.'
+1Kgs 21:2
+  JPS 1917: And Ahab spoke unto Naboth, saying: 'Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house; and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money.'
+  Modern:   And Ahab spoke to Naboth, saying: 'Give me your vineyard, that I may have it for a garden of herbs, because it is near to my house; and I will give you for it a better vineyard than it; or, if it seem good to you, I will give you the worth of it in money.'
+1Sam 2:26
+  JPS 1917: And the child Samuel grew on, and increased in favour both with HaShem, and also with men.
+  Modern:   And the child Samuel grew on, and increased in favor both with HaShem, and also with men.
+1Sam 8:12
+  JPS 1917: And he will appoint them unto him for captains of thousands, and captains of fifties; and to plow his ground, and to reap his harvest, and to make his instruments of war, and the instruments of his chariots.
+  Modern:   And he will appoint them to him for captains of thousands, and captains of fifties; and to plow his ground, and to reap his harvest, and to make his instruments of war, and the instruments of his chariots.
+1Sam 13:18
+  JPS 1917: and another company turned the way to Beth-horon; and another company turned the way of the border that looketh down upon the valley of Zeboim toward the wilderness.
+  Modern:   and another company turned the way to Beth-horon; and another company turned the way of the border that looks down on the valley of Zeboim toward the wilderness.
+1Sam 17:6
+  JPS 1917: And he had greaves of brass upon his legs, and a javelin of brass between his shoulders.
+  Modern:   And he had greaves of brass on his legs, and a javelin of brass between his shoulders.
+1Sam 20:26
+  JPS 1917: Nevertheless Saul spoke not any thing that day; for he thought: 'Something hath befallen him, he is unclean; surely he is not clean.'
+  Modern:   Nevertheless Saul did not speak any thing that day; for he thought: 'Something has befallen him, he is unclean; surely he is not clean.'
+1Sam 25:7
+  JPS 1917: And now I have heard that thou hast shearers; thy shepherds have now been with us, and we did them no hurt, neither was there aught missing unto them, all the while they were in Carmel.
+  Modern:   And now I have heard that you have shearers; your shepherds have now been with us, and we did them no hurt, neither was there anything missing to them, all the while they were in Carmel.
+1Sam 30:1
+  JPS 1917: And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had made a raid upon the South, and upon Ziklag, and had smitten Ziklag, and burned it with fire;
+  Modern:   And it happened, when David and his men had come to Ziklag on the third day, that the Amalekites had made a raid on the South, and on Ziklag, and had struck Ziklag, and burned it with fire;
+2Kgs 4:14
+  JPS 1917: And he said: 'What then is to be done for her?' And Gehazi answered: 'Verily she hath no son, and her husband is old.'
+  Modern:   And he said: 'What then is to be done for her?' And Gehazi answered: 'Truly she has no son, and her husband is old.'
+2Kgs 8:7
+  JPS 1917: And Elisha came to Damascus; and Ben-hadad the king of Aram was sick; and it was told him, saying. 'The man of G-d is come hither.'
+  Modern:   And Elisha came to Damascus; and Ben-hadad the king of Aram was sick; and it was told him, saying. 'The man of G-d has come here.'
+2Kgs 13:11
+  JPS 1917: And he did that which was evil in the sight of HaShem; he departed not from all the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin; but he walked therein.
+  Modern:   And he did that which was evil in the sight of HaShem; he did not depart from all the sins of Jeroboam the son of Nebat, with which he made Israel to sin; but he walked in it.
+2Kgs 18:23
+  JPS 1917: Now therefore, I pray thee, make a wager with my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.
+  Modern:   Now therefore, please, make a wager with my master the king of Assyria, and I will give you two thousand horses, if you be able on your part to set riders on them.
+2Kgs 23:13
+  JPS 1917: And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the detestation of the Zidonians, and for Chemosh the detestation of Moab, and for Milcom the abomination of the children of Ammon, did the king defile.
+  Modern:   And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had built for Ashtoreth the detestation of the Zidonians, and for Chemosh the detestation of Moab, and for Milcom the abomination of the children of Ammon, did the king defile.
+2Sam 3:37
+  JPS 1917: So all the people and all Israel understood that day that it was not of the king to slay Abner the son of Ner.
+  Modern:   So all the people and all Israel understood that day that it was not of the king to kill Abner the son of Ner.
+2Sam 11:1
+  JPS 1917: And it came to pass, at the return of the year, at the time when kings go out to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried at Jerusalem.
+  Modern:   And it happened, at the return of the year, at the time when kings go out to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried at Jerusalem.
+2Sam 14:21
+  JPS 1917: And the king said unto Joab: 'Behold now, I have granted this request; go therefore, bring the young man Absalom back.'
+  Modern:   And the king said to Joab: 'Look, now, I have granted this request; go therefore, bring the young man Absalom back.'
+2Sam 18:24
+  JPS 1917: Now David sat between the two gates; and the watchman went up to the roof of the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.
+  Modern:   Now David sat between the two gates; and the watchman went up to the roof of the gate to the wall, and lifted up his eyes, and looked, and a man running alone.
+2Sam 22:37
+  JPS 1917: Thou hast enlarged my steps under me, and my feet have not slipped.
+  Modern:   You have enlarged my steps under me, and my feet have not slipped.
+Amos 4:6
+  JPS 1917: And I also have given you cleanness of teeth in all your cities, and want of bread in all your places; yet have ye not returned unto Me, saith HaShem.
+  Modern:   And I also have given you cleanness of teeth in all your cities, and want of bread in all your places; yet have you not returned to Me, says HaShem.
+Deut 1:10
+  JPS 1917: HaShem your G-d hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude. —
+  Modern:   HaShem your G-d has multiplied you, and you are this day as the stars of heaven for multitude. —
+Deut 4:5
+  JPS 1917: Behold, I have taught you statutes and ordinances, even as HaShem my G-d commanded me, that ye should do so in the midst of the land whither ye go in to possess it.
+  Modern:   Look, I have taught you statutes and ordinances, even as HaShem my G-d commanded me, that you should do so in the middle of the land where you go in to possess it.
+Deut 7:7
+  JPS 1917: HaShem did not set His love upon you, nor choose you, because ye were more in number than any people — for ye were the fewest of all peoples —
+  Modern:   HaShem did not set His love on you, nor choose you, because you were more in number than any people — for you were the fewest of all peoples —
+Deut 11:15
+  JPS 1917: And I will give grass in thy fields for thy cattle, and thou shalt eat and be satisfied.
+  Modern:   And I will give grass in your fields for your cattle, and you shall eat and be satisfied.
+Deut 15:8
+  JPS 1917: but thou shalt surely open thy hand unto him, and shalt surely lend him sufficient for his need in that which he wanteth.
+  Modern:   but you shall surely open your hand to him, and shall surely lend him sufficient for his need in that which he wants.
+Deut 19:19
+  JPS 1917: then shall ye do unto him, as he had purposed to do unto his brother; so shalt thou put away the evil from the midst of thee.
+  Modern:   then shall you do to him, as he had purposed to do to his brother; so shall you put away the evil from the middle of you.
+Deut 23:24
+  JPS 1917: That which is gone out of thy lips thou shalt observe and do; according as thou hast vowed freely unto HaShem thy G-d, even that which thou hast promised with thy mouth.
+  Modern:   That which has gone out of your lips you shall observe and do; according as you have vowed freely to HaShem your G-d, even that which you have promised with your mouth.
+Deut 28:11
+  JPS 1917: And HaShem will make thee over-abundant for good, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, in the land which HaShem swore unto thy fathers to give thee.
+  Modern:   And HaShem will make you over-abundant for good, in the fruit of your body, and in the fruit of your cattle, and in the fruit of your land, in the land which HaShem swore to your fathers to give you.
+Deut 30:14
+  JPS 1917: But the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.
+  Modern:   But the word is very nigh to you, in your mouth, and in your heart, that you may do it.
+Exod 1:14
+  JPS 1917: And they made their lives bitter with hard service, in mortar and in brick, and in all manner of service in the field; in all their service, wherein they made them serve with rigour.
+  Modern:   And they made their lives bitter with hard service, in mortar and in brick, and in all manner of service in the field; in all their service, in which they made them serve with rigour.
+Exod 6:13
+  JPS 1917: And HaShem spoke unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.
+  Modern:   And HaShem spoke to Moses and to Aaron, and gave them a charge to the children of Israel, and to Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.
+Exod 10:21
+  JPS 1917: And HaShem said unto Moses: 'Stretch out thy hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.'
+  Modern:   And HaShem said to Moses: 'Stretch out your hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.'
+Exod 14:22
+  JPS 1917: And the children of Israel went into the midst of the sea upon the dry ground; and the waters were a wall unto them on their right hand, and on their left.
+  Modern:   And the children of Israel went into the middle of the sea on the dry ground; and the waters were a wall to them on their right hand, and on their left.
+Exod 19:10
+  JPS 1917: And HaShem said unto Moses: 'Go unto the people, and sanctify them to-day and to-morrow, and let them wash their garments,
+  Modern:   And HaShem said to Moses: 'Go to the people, and sanctify them today and tomorrow, and let them wash their garments,
+Exod 22:28
+  JPS 1917: Thou shalt not delay to offer of the fulness of thy harvest, and of the outflow of thy presses. The first-born of thy sons shalt thou give unto Me.
+  Modern:   You shall not delay to offer of the fulness of your harvest, and of the outflow of your presses. The first-born of your sons shall you give to Me.
+Exod 26:16
+  JPS 1917: Ten cubits shall be the length of a board, and a cubit and a half the breadth of each board.
+  Modern:   Ten cubits will be the length of a board, and a cubit and a half the breadth of each board.
+Exod 29:18
+  JPS 1917: And thou shalt make the whole ram smoke upon the altar; it is a burnt-offering unto HaShem; it is a sweet savour, an offering made by fire unto HaShem.
+  Modern:   And you shall make the whole ram smoke on the altar; it is a burnt-offering to HaShem; it is a sweet savor, an offering made by fire to HaShem.
+Exod 32:31
+  JPS 1917: And Moses returned unto HaShem, and said: 'Oh, this people have sinned a great sin, and have made them a god of gold.
+  Modern:   And Moses returned to HaShem, and said: 'Oh, this people have sinned a great sin, and have made them a god of gold.
+Exod 37:27
+  JPS 1917: And he made for it two golden rings under the crown thereof, upon the two ribs thereof, upon the two sides of it, for holders for staves wherewith to bear it.
+  Modern:   And he made for it two golden rings under the crown of it, on the two ribs of it, on the two sides of it, for holders for staves with which to bear it.
+Ezek 3:15
+  JPS 1917: Then I came to them of the captivity at Tel-abib, that dwelt by the river Chebar, and I sat where they sat; and I remained there appalled among them seven days.
+  Modern:   Then I came to them of the captivity at Tel-abib, that lived by the river Chebar, and I sat where they sat; and I remained there appalled among them seven days.
+Ezek 8:14
+  JPS 1917: Then He brought me to the door of the gate of HaShem's house which was toward the north; and, behold, there sat the women weeping for Tammuz.
+  Modern:   Then He brought me to the door of the gate of HaShem's house which was toward the north; and there sat the women weeping for Tammuz.
+Ezek 14:6
+  JPS 1917: Therefore say unto the house of Israel: Thus saith the Lord HaShem: Return ye, and turn yourselves from your idols; and turn away your faces from all your abominations.
+  Modern:   Therefore say to the house of Israel: Thus says the Lord HaShem: Return, and turn yourselves from your idols; and turn away your faces from all your abominations.
+Ezek 17:16
+  JPS 1917: As I live, saith the Lord HaShem, surely in the place where the king dwelleth that made him king, whose oath he despised, and whose covenant he broke, even with him in the midst of Babylon he shall die.
+  Modern:   As I live, says the Lord HaShem, surely in the place where the king lives that made him king, whose oath he despised, and whose covenant he broke, even with him in the middle of Babylon he will die.
+Ezek 21:12
+  JPS 1917: And it shall be, when they say unto thee: Wherefore sighest thou? that thou shalt say: Because of the tidings, for it cometh; and every heart shall melt, and all hands shall be slack, and every spirit shall be faint, and all knees shall drip with water; behold, it cometh, and it shall be done, saith the Lord HaShem.'
+  Modern:   And it will be, when they say to you: Why sigh you? that you shall say: Because of the tidings, for it comes; and every heart will melt, and all hands will be slack, and every spirit will be faint, and all knees will drip with water; look, it comes, and it will be done, says the Lord HaShem.'
+Ezek 24:7
+  JPS 1917: For her blood is in the midst of her; she set it upon the bare rock; she poured it not upon the ground, to cover it with dust;
+  Modern:   For her blood is in the middle of her; she set it on the bare rock; she did not pour it on the ground, to cover it with dust;
+Ezek 28:4
+  JPS 1917: By thy wisdom and by thy discernment thou hast gotten thee riches, and hast gotten gold and silver into thy treasures;
+  Modern:   By your wisdom and by your discernment you have gotten you riches, and have gotten gold and silver into your treasures;
+Ezek 32:16
+  JPS 1917: This is the lamentation wherewith they shall lament; the daughters of the nations shall lament therewith; for Egypt, and for all her multitude, shall they lament therewith, saith the Lord HaShem.'
+  Modern:   This is the lamentation with which they will lament; the daughters of the nations will lament with it; for Egypt, and for all her multitude, will they lament with it, says the Lord HaShem.'
+Ezek 36:6
+  JPS 1917: therefore prophesy concerning the land of Israel, and say unto the mountains and to the hills, to the streams and to the valleys: Thus saith the Lord HaShem: Behold, I have spoken in My jealousy and in My fury, because ye have borne the shame of the nations;
+  Modern:   therefore prophesy concerning the land of Israel, and say to the mountains and to the hills, to the streams and to the valleys: Thus says the Lord HaShem: Look, I have spoken in My jealousy and in My fury, because you have borne the shame of the nations;
+Ezek 39:18
+  JPS 1917: The flesh of the mighty shall ye eat, and the blood of the princes of the earth shall ye drink; rams, lambs, and goats, bullocks, fatlings of Bashan are they all of them.
+  Modern:   The flesh of the mighty shall you eat, and the blood of the princes of the earth shall you drink; rams, lambs, and goats, bullocks, fatlings of Bashan are they all of them.
+Ezek 44:9
+  JPS 1917: Thus saith the Lord HaShem: No alien, uncircumcised in heart and uncircumcised in flesh, shall enter into My sanctuary, even any alien that is among the children of Israel.
+  Modern:   Thus says the Lord HaShem: No alien, uncircumcised in heart and uncircumcised in flesh, will enter into My sanctuary, even any alien that is among the children of Israel.
+Ezek 48:7
+  JPS 1917: And by the border of Reuben, from the east side unto the west side: Judah, one portion.
+  Modern:   And by the border of Reuben, from the east side to the west side: Judah, one portion.
+Gen 4:25
+  JPS 1917: And Adam knew his wife again; and she bore a son, and called his name Seth: 'for G-d hath appointed me another seed instead of Abel; for Cain slew him.'
+  Modern:   And Adam knew his wife again; and she bore a son, and named him Seth: 'for G-d has appointed me another seed instead of Abel; for Cain killed him.'
+Gen 10:9
+  JPS 1917: He was a mighty hunter before HaShem; wherefore it is said: 'Like Nimrod a mighty hunter before HaShem.'
+  Modern:   He was a mighty hunter before HaShem; therefore it is said: 'Like Nimrod a mighty hunter before HaShem.'
+Gen 15:16
+  JPS 1917: And in the fourth generation they shall come back hither; for the iniquity of the Amorite is not yet full.'
+  Modern:   And in the fourth generation they will come back here; for the iniquity of the Amorite is not yet full.'
+Gen 19:37
+  JPS 1917: And the first-born bore a son, and called his name Moab — the same is the father of the Moabites unto this day.
+  Modern:   And the first-born bore a son, and named him Moab — the same is the father of the Moabites to this day.
+Gen 24:33
+  JPS 1917: And there was set food before him to eat; but he said: 'I will not eat, until I have told mine errand.' And he said: 'Speak on.'
+  Modern:   And there was set food before him to eat; but he said: 'I will not eat, until I have told my errand.' And he said: 'Speak on.'
+Gen 27:22
+  JPS 1917: And Jacob went near unto Isaac his father; and he felt him, and said: 'The voice is the voice of Jacob, but the hands are the hands of Esau.'
+  Modern:   And Jacob went near to Isaac his father; and he felt him, and said: 'The voice is the voice of Jacob, but the hands are the hands of Esau.'
+Gen 30:36
+  JPS 1917: And he set three days' journey betwixt himself and Jacob. And Jacob fed the rest of Laban's flocks.
+  Modern:   And he set three days' journey between himself and Jacob. And Jacob fed the rest of Laban's flocks.
+Gen 34:7
+  JPS 1917: And the sons of Jacob came in from the field when they heard it; and the men were grieved, and they were very wroth, because he had wrought a vile deed in Israel in lying with Jacob's daughter; which thing ought not to be done.
+  Modern:   And the sons of Jacob came in from the field when they heard it; and the men were grieved, and they were very angry, because he had wrought a vile deed in Israel in lying with Jacob's daughter; which thing ought not to be done.
+Gen 38:16
+  JPS 1917: And he turned unto her by the way, and said: 'Come, I pray thee, let me come in unto thee'; for he knew not that she was his daughter-in-law. And she said: 'What wilt thou give me, that thou mayest come in unto me?'
+  Modern:   And he turned to her by the way, and said: 'Come, please, let me come in to you'; for he did not know that she was his daughter-in-law. And she said: 'What will you give me, that you may come in to me?'
+Gen 42:2
+  JPS 1917: And he said: 'Behold, I have heard that there is corn in Egypt. Get you down thither, and buy for us from thence; that we may live, and not die.'
+  Modern:   And he said: 'Look, I have heard that there is grain in Egypt. Get down there, and buy for us from there; that we may live, and not die.'
+Gen 45:15
+  JPS 1917: And he kissed all his brethren, and wept upon them; and after that his brethren talked with him.
+  Modern:   And he kissed all his brothers, and wept on them; and after that his brothers talked with him.
+Gen 49:29
+  JPS 1917: And he charged them, and said unto them: 'I am to be gathered unto my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+  Modern:   And he charged them, and said to them: 'I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+Hag 2:15
+  JPS 1917: And now, I pray you, consider from this day and forward — before a stone was laid upon a stone in the temple of HaShem,
+  Modern:   And now, please, consider from this day and forward — before a stone was laid on a stone in the temple of HaShem,
+Hos 8:14
+  JPS 1917: For Israel hath forgotten his Maker, and builded palaces, and Judah hath multiplied fortified cities; but I will send a fire upon his cities, and it shall devour the castles thereof.
+  Modern:   For Israel has forgotten his Maker, and built palaces, and Judah has multiplied fortified cities; but I will send a fire on his cities, and it will devour the castles of it.
+Isa 2:4
+  JPS 1917: And He shall judge between the nations, and shall decide for many peoples; and they shall beat their swords into plowshares, and their spears into pruninghooks; nation shall not lift up sword against nation, neither shall they learn war any more.
+  Modern:   And He will judge between the nations, and will decide for many peoples; and they will beat their swords into plowshares, and their spears into pruninghooks; nation will not lift up sword against nation, neither will they learn war any more.
+Isa 7:23
+  JPS 1917: And it shall come to pass in that day, that every place, where there were a thousand vines at a thousand silverlings, shall even be for briers and thorns.
+  Modern:   And it will happen in that day, that every place, where there were a thousand vines at a thousand silverlings, will even be for briers and thorns.
+Isa 13:6
+  JPS 1917: Howl ye; for the day of HaShem is at hand; as destruction from the Almighty shall it come.
+  Modern:   Howl; for the day of HaShem is at hand; as destruction from the Almighty will it come.
+Isa 19:14
+  JPS 1917: HaShem hath mingled within her a spirit of dizziness; and they have caused Egypt to stagger in every work thereof, as a drunken man staggereth in his vomit.
+  Modern:   HaShem has mingled within her a spirit of dizziness; and they have caused Egypt to stagger in every work of it, as a drunken man staggers in his vomit.
+Isa 25:6
+  JPS 1917: And in this mountain will HaShem of hosts make unto all peoples a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.
+  Modern:   And in this mountain will HaShem of hosts make to all peoples a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.
+Isa 30:13
+  JPS 1917: Therefore this iniquity shall be to you as a breach ready to fall, swelling out in a high wall, whose breaking cometh suddenly at an instant.
+  Modern:   Therefore this iniquity will be to you as a breach ready to fall, swelling out in a high wall, whose breaking comes suddenly at an instant.
+Isa 35:10
+  JPS 1917: And the ransomed of HaShem shall return, and come with singing unto Zion, and everlasting joy shall be upon their heads; they shall obtain gladness and joy, and sorrow and sighing shall flee away.
+  Modern:   And the ransomed of HaShem will return, and come with singing to Zion, and everlasting joy will be on their heads; they will obtain gladness and joy, and sorrow and sighing will flee away.
+Isa 40:21
+  JPS 1917: Know ye not? hear ye not? Hath it not been told you from the beginning? Have ye not understood the foundations of the earth?
+  Modern:   Do you not know? do you not hear? Has it not been told you from the beginning? Have you not understood the foundations of the earth?
+Isa 44:20
+  JPS 1917: He striveth after ashes, a deceived heart hath turned him aside, that he cannot deliver his soul, nor say: 'Is there not a lie in my right hand?'
+  Modern:   He strives after ashes, a deceived heart has turned him aside, that he cannot deliver his soul, nor say: 'Is there not a lie in my right hand?'
+Isa 49:17
+  JPS 1917: Thy children make haste; thy destroyers and they that made thee waste shall go forth from thee.
+  Modern:   Your children make haste; your destroyers and they that made you waste will go out from you.
+Isa 56:2
+  JPS 1917: Happy is the man that doeth this, and the son of man that holdeth fast by it: that keepeth the sabbath from profaning it, and keepeth his hand from doing any evil.
+  Modern:   Happy is the man that does this, and the son of man that holds fast by it: that keeps the sabbath from profaning it, and keeps his hand from doing any evil.
+Isa 62:10
+  JPS 1917: Go through, go through the gates, clear ye the way of the people; cast up, cast up the highway, gather out the stones; lift up an ensign over the peoples.
+  Modern:   Go through, go through the gates, clear the way of the people; cast up, cast up the highway, gather out the stones; lift up an ensign over the peoples.
+Jer 2:5
+  JPS 1917: Thus saith HaShem: What unrighteousness have your fathers found in Me, that they are gone far from Me, and have walked after things of nought, and are become nought?
+  Modern:   Thus says HaShem: What unrighteousness have your fathers found in Me, that they have gone far from Me, and have walked after things of nothing, and have become nothing?
+Jer 5:18
+  JPS 1917: But even in those days, saith HaShem, I will not make a full end with you.
+  Modern:   But even in those days, says HaShem, I will not make a full end with you.
+Jer 9:12
+  JPS 1917: And HaShem saith: Because they have forsaken My law which I set before them, and have not hearkened to My voice, neither walked therein;
+  Modern:   And HaShem says: Because they have forsaken My law which I set before them, and have not listened to My voice, neither walked in it;
+Jer 14:6
+  JPS 1917: And the wild asses stand on the high hills, they gasp for air like jackals; their eyes fail, because there is no herbage.
+  Modern:   And the wild donkeys stand on the high hills, they gasp for air like jackals; their eyes fail, because there is no herbage.
+Jer 18:22
+  JPS 1917: Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them; for they have digged a pit to take me, and hid snares for my feet.
+  Modern:   Let a cry be heard from their houses, when you shall bring a troop suddenly on them; for they have dug a pit to take me, and hid snares for my feet.
+Jer 23:30
+  JPS 1917: Therefore, behold, I am against the prophets, saith HaShem, that steal My words every one from his neighbour.
+  Modern:   Therefore, I am against the prophets, says HaShem, that steal My words every one from his neighbor.
+Jer 28:15
+  JPS 1917: Then said the prophet Jeremiah unto Hananiah the prophet: 'Hear now, Hananiah; HaShem hath not sent thee; but thou makest this people to trust in a lie.
+  Modern:   Then said the prophet Jeremiah to Hananiah the prophet: 'Hear now, Hananiah; HaShem has not sent you; but you make this people to trust in a lie.
+Jer 32:6
+  JPS 1917: And Jeremiah said: 'The word of HaShem came unto me, saying:
+  Modern:   And Jeremiah said: 'The word of HaShem came to me, saying:
+Jer 36:7
+  JPS 1917: It may be they will present their supplication before HaShem, and will return every one from his evil way; for great is the anger and the fury that HaShem hath pronounced against this people.'
+  Modern:   It may be they will present their supplication before HaShem, and will return every one from his evil way; for great is the anger and the fury that HaShem has pronounced against this people.'
+Jer 42:5
+  JPS 1917: Then they said to Jeremiah: 'HaShem be a true and faithful witness against us, if we do not even according to all the word wherewith HaShem thy G-d shall send thee to us.
+  Modern:   Then they said to Jeremiah: 'HaShem be a true and faithful witness against us, if we do not even according to all the word with which HaShem your G-d will send you to us.
+Jer 48:5
+  JPS 1917: For by the ascent of Luhith with continual weeping shall they go up; for in the going down of Horonaim they have heard the distressing cry of destruction.
+  Modern:   For by the ascent of Luhith with continual weeping will they go up; for in the going down of Horonaim they have heard the distressing cry of destruction.
+Jer 50:27
+  JPS 1917: Slay all her bullocks, let them go down to the slaughter; woe unto them! for their day is come, the time of their visitation.
+  Modern:   Kill all her bullocks, let them go down to the slaughter; woe to them! for their day has come, the time of their visitation.
+Joel 1:13
+  JPS 1917: Gird yourselves, and lament, ye priests, wail, ye ministers of the altar; come, lie all night in sackcloth, ye ministers of my G-d; for the meal-offering and the drink-offering is withholden from the house of your G-d.
+  Modern:   Gird yourselves, and lament, you priests, wail, you ministers of the altar; come, lie all night in sackcloth, you ministers of my G-d; for the meal-offering and the drink-offering is withholden from the house of your G-d.
+Josh 1:5
+  JPS 1917: There shall not any man be able to stand before thee all the days of thy life; as I was with Moses, so I will be with thee; I will not fail thee, nor forsake thee.
+  Modern:   There will not any man be able to stand before you all the days of your life; as I was with Moses, so I will be with you; I will not fail you, nor forsake you.
+Josh 6:24
+  JPS 1917: And they burnt the city with fire, and all that was therein; only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of HaShem.
+  Modern:   And they burnt the city with fire, and all that was in it; only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of HaShem.
+Josh 10:28
+  JPS 1917: And Joshua took Makkedah on that day, and smote it with the edge of the sword, and the king thereof; he utterly destroyed them and all the souls that were therein, he left none remaining; and he did to the king of Makkedah as he had done unto the king of Jericho.
+  Modern:   And Joshua took Makkedah on that day, and struck it with the edge of the sword, and the king of it; he utterly destroyed them and all the souls that were in it, he left none remaining; and he did to the king of Makkedah as he had done to the king of Jericho.
+Josh 17:9
+  JPS 1917: And the border went down unto the brook of Kanah, southward of the brook, by cities which belonged to Ephraim among the cities of Manasseh; but the border of Manasseh was on the north side of the brook; and the goings out thereof were at the sea:
+  Modern:   And the border went down to the brook of Kanah, southward of the brook, by cities which belonged to Ephraim among the cities of Manasseh; but the border of Manasseh was on the north side of the brook; and the goings out of it were at the sea:
+Josh 24:2
+  JPS 1917: And Joshua said unto all the people: 'Thus saith HaShem, the G-d of Israel: Your fathers dwelt of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor; and they served other gods.
+  Modern:   And Joshua said to all the people: 'Thus says HaShem, the G-d of Israel: Your fathers lived of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor; and they served other gods.
+Judg 4:17
+  JPS 1917: Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.
+  Modern:   However Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.
+Judg 8:26
+  JPS 1917: And the weight of the golden ear-rings that he requested was a thousand and seven hundred shekels of gold; beside the crescents, and the pendants, and the purple raiment that was on the kings of Midian, and beside the chains that were about their camels' necks.
+  Modern:   And the weight of the golden ear-rings that he requested was a thousand and seven hundred shekels of gold; beside the crescents, and the pendants, and the purple clothes that was on the kings of Midian, and beside the chains that were about their camels' necks.
+Judg 11:37
+  JPS 1917: And she said unto her father: 'Let this thing be done for me: let me alone two months, that I may depart and go down upon the mountains, and bewail my virginity, I and my companions.'
+  Modern:   And she said to her father: 'Let this thing be done for me: let me alone two months, that I may depart and go down on the mountains, and bewail my virginity, I and my companions.'
+Judg 17:3
+  JPS 1917: And he restored the eleven hundred pieces of silver to his mother, and his mother said: 'I verily dedicate the silver unto HaShem from my hand for my son, to make a graven image and a molten image; now therefore I will restore it unto thee.'
+  Modern:   And he restored the eleven hundred pieces of silver to his mother, and his mother said: 'I truly dedicate the silver to HaShem from my hand for my son, to make a graven image and a molten image; now therefore I will restore it to you.'
+Judg 21:9
+  JPS 1917: For when the people were numbered, behold, there were none of the inhabitants of Jabesh-gilead there.
+  Modern:   For when the people were numbered, there were none of the inhabitants of Jabesh-gilead there.
+Lev 5:1
+  JPS 1917: And if any one sin, in that he heareth the voice of adjuration, he being a witness, whether he hath seen or known, if he do not utter it, then he shall bear his iniquity;
+  Modern:   And if any one sin, in that he hears the voice of adjuration, he being a witness, whether he has seen or known, if he do not utter it, then he will bear his iniquity;
+Lev 8:22
+  JPS 1917: And the other ram was presented, the ram of consecration, and Aaron and his sons laid their hands upon the head of the ram.
+  Modern:   And the other ram was presented, the ram of consecration, and Aaron and his sons laid their hands on the head of the ram.
+Lev 13:1
+  JPS 1917: And HaShem spoke unto Moses and unto Aaron, saying:
+  Modern:   And HaShem spoke to Moses and to Aaron, saying:
+Lev 14:45
+  JPS 1917: And he shall break down the house, the stones of it, and the timber thereof, and all the mortar of the house; and he shall carry them forth out of the city into an unclean place.
+  Modern:   And he will break down the house, the stones of it, and the timber of it, and all the mortar of the house; and he will carry them out of the city into an unclean place.
+Lev 18:8
+  JPS 1917: The nakedness of thy father's wife shalt thou not uncover: it is thy father's nakedness.
+  Modern:   The nakedness of your father's wife shall you not uncover: it is your father's nakedness.
+Lev 21:13
+  JPS 1917: And he shall take a wife in her virginity.
+  Modern:   And he will take a wife in her virginity.
+Lev 24:15
+  JPS 1917: And thou shalt speak unto the children of Israel, saying: Whosoever curseth his G-d shall bear his sin.
+  Modern:   And you shall speak to the children of Israel, saying: Whoever curses his G-d will bear his sin.
+Lev 26:37
+  JPS 1917: And they shall stumble one upon another, as it were before the sword, when none pursueth; and ye shall have no power to stand before your enemies.
+  Modern:   And they will stumble one on another, as it were before the sword, when none pursues; and you shall have no power to stand before your enemies.
+Mic 1:10
+  JPS 1917: Tell it not in Gath, weep not at all; at Beth-le-aphrah roll thyself in the dust.
+  Modern:   Do not tell it in Gath, do not weep at all; at Beth-le-aphrah roll yourself in the dust.
+Nah 1:11
+  JPS 1917: Out of thee came he forth, that deviseth evil against HaShem, that counselleth wickedness.
+  Modern:   Out of you came he out, that devises evil against HaShem, that counsels wickedness.
+Num 4:3
+  JPS 1917: from thirty years old and upward even until fifty years old, all that enter upon the service, to do work in the tent of meeting.
+  Modern:   from thirty years old and upward even until fifty years old, all that enter on the service, to do work in the tent of meeting.
+Num 7:13
+  JPS 1917: and his offering was one silver dish, the weight thereof was a hundred and thirty shekels, one silver basin of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+  Modern:   and his offering was one silver dish, the weight of it was a hundred and thirty shekels, one silver basin of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+Num 12:6
+  JPS 1917: And He said: 'Hear now My words: if there be a prophet among you, I HaShem do make Myself known unto him in a vision, I do speak with him in a dream.
+  Modern:   And He said: 'Hear now My words: if there be a prophet among you, I HaShem make Myself known to him in a vision, I speak with him in a dream.
+Num 15:38
+  JPS 1917: 'Speak unto the children of Israel, and bid them that they make them throughout their generations fringes in the corners of their garments, and that they put with the fringe of each corner a thread of blue.
+  Modern:   'Speak to the children of Israel, and bid them that they make them throughout their generations fringes in the corners of their garments, and that they put with the fringe of each corner a thread of blue.
+Num 19:12
+  JPS 1917: the same shall purify himself therewith on the third day and on the seventh day, and he shall be clean; but if he purify not himself the third day and the seventh day, he shall not be clean.
+  Modern:   the same will purify himself with it on the third day and on the seventh day, and he will be clean; but if he do not purify himself the third day and the seventh day, he will not be clean.
+Num 23:3
+  JPS 1917: And Balaam said unto Balak: 'Stand by thy burnt-offering, and I will go; peradventure HaShem will come to meet me; and whatsoever He showeth me I will tell thee.' And he went to a bare height.
+  Modern:   And Balaam said to Balak: 'Stand by your burnt-offering, and I will go; perhaps HaShem will come to meet me; and whatever He shows me I will tell you.' And he went to a bare height.
+Num 28:7
+  JPS 1917: And the drink-offering thereof shall be the fourth part of a hin for the one lamb; in the holy place shalt thou pour out a drink-offering of strong drink unto HaShem.
+  Modern:   And the drink-offering of it will be the fourth part of a hin for the one lamb; in the holy place shall you pour out a drink-offering of strong drink to HaShem.
+Num 32:18
+  JPS 1917: We will not return unto our houses, until the children of Israel have inherited every man his inheritance.
+  Modern:   We will not return to our houses, until the children of Israel have inherited every man his inheritance.
+Obad 1:3
+  JPS 1917: The pride of thy heart hath beguiled thee, O thou that dwellest in the clefts of the rock, thy habitation on high; that sayest in thy heart: 'Who shall bring me down to the ground?'
+  Modern:   The pride of your heart has beguiled you, O you that live in the clefts of the rock, your habitation on high; that say in your heart: 'Who will bring me down to the ground?'
+Zech 7:9
+  JPS 1917: 'Thus hath HaShem of hosts spoken, saying: Execute true judgment, and show mercy and compassion every man to his brother;
+  Modern:   'Thus has HaShem of hosts spoken, saying: Execute true judgment, and show mercy and compassion every man to his brother;
+Zech 14:11
+  JPS 1917: And men shall dwell therein, and there shall be no more extermination; but Jerusalem shall dwell safely.
+  Modern:   And men will live in it, and there will be no more extermination; but Jerusalem will live safely.

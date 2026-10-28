@@ -12,12 +12,25 @@ public record Verse(int Chapter, int Number, string Hebrew, string? HebrewUpper,
 {
     /// <summary>Each word's transliteration (see <see cref="PhoneticMam"/>), when the reading has been built with it.</summary>
     public PhoneticWord?[]? Phonetic { get; init; }
+
+    /// <summary>The English in modern wording ("JPS 1917 Modern", Data\EnglishModern), if that folder is there.</summary>
+    public string? EnglishModern { get; init; }
+
+    public string? EnglishFor(EnglishVersion version) => version switch
+    {
+        EnglishVersion.Jps1917 => English,
+        EnglishVersion.Jps1917Modern => EnglishModern,
+        _ => null,
+    };
 }
+
+/// <summary>Which English to show.</summary>
+public enum EnglishVersion { Off, Jps1917, Jps1917Modern }
 
 /// <summary>
 /// Torah and Prophets text: Hebrew from MAM (Miqra according to the Masorah, MAM-simple JSON, CC BY-SA 4.0
 /// — see Data\MAM\README.md) and English from the JPS 1917 translation, in the same verse numbering (Data\English,
-/// see its README.md).
+/// see its README.md), with its modernized version where Data\EnglishModern is there.
 ///
 /// The MAM files are chosen so verse numbers match Hebcal's (Leningrad-style) numbering; see the README.
 /// </summary>
@@ -39,12 +52,8 @@ public partial class ScriptureText(string dataDir)
         if (books.TryGetValue(book, out var cached)) return cached;
 
         var info = Books.Get(book);
-        var english = new Dictionary<(int, int), string>();
-        string engPath = Path.Combine(dataDir, "English", book + ".txt");
-        if (File.Exists(engPath))
-            foreach (var line in File.ReadAllLines(engPath, Encoding.UTF8))
-                if (EnglishLine().Match(line) is { Success: true } m)
-                    english[(int.Parse(m.Groups[1].Value), int.Parse(m.Groups[2].Value))] = m.Groups[3].Value.Trim();
+        var english = ReadEnglish("English", book);
+        var modern = ReadEnglish("EnglishModern", book);
 
         var result = new SortedDictionary<(int, int), Verse>();
         using var doc = JsonDocument.Parse(File.ReadAllText(Path.Combine(dataDir, "MAM", info.MamFile + ".json")));
@@ -64,10 +73,25 @@ public partial class ScriptureText(string dataDir)
                         lower = lower[..^2];
                         upper = upper[..^2];
                     }
-                    result[(c, v)] = new Verse(c, v, lower, upper == lower ? null : upper, english.GetValueOrDefault((c, v)), mark);
+                    result[(c, v)] = new Verse(c, v, lower, upper == lower ? null : upper, english.GetValueOrDefault((c, v)), mark)
+                    {
+                        EnglishModern = modern.GetValueOrDefault((c, v)),
+                    };
                 }
         books[book] = result;
         return result;
+    }
+
+    /// <summary>A book's English from a folder of "chapter:verse text" lines (empty if the file isn't there).</summary>
+    Dictionary<(int, int), string> ReadEnglish(string folder, string book)
+    {
+        var english = new Dictionary<(int, int), string>();
+        string path = Path.Combine(dataDir, folder, book + ".txt");
+        if (File.Exists(path))
+            foreach (var line in File.ReadAllLines(path, Encoding.UTF8))
+                if (EnglishLine().Match(line) is { Success: true } m)
+                    english[(int.Parse(m.Groups[1].Value), int.Parse(m.Groups[2].Value))] = m.Groups[3].Value.Trim();
+        return english;
     }
 
     static string Type(JsonElement e) => e.GetProperty("type").GetString()!;

@@ -51,7 +51,8 @@
             cboFont = new ComboBox();
             lblSize = new Label();
             numSize = new NumericUpDown();
-            chkEnglish = new CheckBox();
+            lblEnglish = new Label();
+            cboEnglish = new ComboBox();
             btnPdf = new Button();
             btnPrint = new Button();
             btnHelp = new Button();
@@ -89,7 +90,8 @@
             toolbar.Controls.Add(cboFont);
             toolbar.Controls.Add(lblSize);
             toolbar.Controls.Add(numSize);
-            toolbar.Controls.Add(chkEnglish);
+            toolbar.Controls.Add(lblEnglish);
+            toolbar.Controls.Add(cboEnglish);
             toolbar.Controls.Add(lblTranslit);
             toolbar.Controls.Add(cboTranslit);
             toolbar.Controls.Add(btnPdf);
@@ -330,16 +332,26 @@
             numSize.Value = new decimal(new int[] { 24, 0, 0, 0 });
             numSize.ValueChanged += display_Changed;
             // 
-            // chkEnglish
+            // lblEnglish
             // 
-            chkEnglish.Anchor = AnchorStyles.Left;
-            chkEnglish.AutoSize = true;
-            chkEnglish.Location = new Point(615, 72);
-            chkEnglish.Name = "chkEnglish";
-            chkEnglish.Size = new Size(64, 19);
-            chkEnglish.TabIndex = 8;
-            chkEnglish.Text = "English";
-            chkEnglish.CheckedChanged += display_Changed;
+            lblEnglish.Anchor = AnchorStyles.Left;
+            lblEnglish.AutoSize = true;
+            lblEnglish.Location = new Point(615, 74);
+            lblEnglish.Name = "lblEnglish";
+            lblEnglish.Size = new Size(48, 15);
+            lblEnglish.TabIndex = 8;
+            lblEnglish.Text = "English:";
+            // 
+            // cboEnglish
+            // 
+            cboEnglish.DropDownStyle = ComboBoxStyle.DropDownList;
+            cboEnglish.Items.AddRange(new object[] { "Off", "JPS 1917", "JPS 1917 Modern" });
+            cboEnglish.Location = new Point(669, 69);
+            cboEnglish.Name = "cboEnglish";
+            cboEnglish.Size = new Size(125, 23);
+            cboEnglish.TabIndex = 8;
+            toolTip.SetToolTip(cboEnglish, "English under each aliyah: the JPS 1917 translation, or JPS 1917 Modern (the same translation in modern English).");
+            cboEnglish.SelectedIndexChanged += display_Changed;
             //
             // lblTranslit
             //
@@ -469,7 +481,8 @@
         private ComboBox cboFont;
         private Label lblSize;
         private NumericUpDown numSize;
-        private CheckBox chkEnglish;
+        private Label lblEnglish;
+        private ComboBox cboEnglish;
         private CheckBox chkUpper;
         private Label lblShevaNa;
         private ComboBox cboShevaNa;

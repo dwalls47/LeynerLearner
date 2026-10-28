@@ -6,7 +6,7 @@ PDF or print it.
 
 - Triennial or full-kriyah aliyot, and Ashkenazi, Sephardi, Chabad or triennial haftarot
 - Sounded shevas (sheva na) marked in color, with a large sheva, or with a rafe
-- Sephardic or Ashkenazic transliteration, and English, under each aliyah
+- Sephardic or Ashkenazic transliteration, and English (JPS 1917, or JPS 1917 Modern), under each aliyah
 - Upper or lower trope for the Ten Commandments
 - Help (F1) explains every source and the sheva na / sheva nach rules
 
@@ -19,6 +19,7 @@ Built with .NET 10 and Windows Forms; PDFs with [QuestPDF](https://www.questpdf.
 | `LeynerLearner` | The app |
 | `LeynerLearnerX` | An experimental copy of the app (with Verse-per-line and Tikkun layouts) |
 | `Tools\EnglishGenerator` | Makes `Data\English` from the JPS 1917 translation (eBible.org), in the Hebrew verse numbering |
+| `Tools\EnglishModernizer` | Makes `Data\EnglishModern` (JPS 1917 Modern) from `Data\English` by rules and listed hand edits |
 | `Tools\ShevaNaGenerator` | Makes `Data\MAM\sheva-na.json` (which shevas are sounded) from Phonetic MAM |
 | `Tools\ShevaNaFont` | Builds the Hebrew Sheva Na font, with its corresponding source |
 | `Tools\DataManifest` | Checks and updates `Data\manifest.json`, and makes data packs for "Update data" |
@@ -35,5 +36,6 @@ The app's code is under the MIT license (`LICENSE`). Its data keeps the licenses
 | Transliteration and sounded shevas (`PhoneticMAM`, `MAM\sheva-na.json`) | Phonetic MAM | CC BY-SA 4.0 |
 | Reading schedules (`Hebcal`) | @hebcal/triennial, @hebcal/leyning | BSD-2-Clause |
 | English (`English`) | JPS 1917, The Holy Scriptures According to the Masoretic Text (eBible.org) | Public domain |
+| English (`EnglishModern`, optional) | JPS 1917 Modern: JPS 1917 in modern English, made by `Tools\EnglishModernizer` | CC0-1.0 |
 | Font (`Fonts`) | Hebrew Sheva Na, from Taamey D 0.921 | GPL-2.0 with font exception |
 | Font (`FrankRuhlLibre`, optional) | Frank Ruhl Libre Regular, unmodified (no trope marks) | OFL-1.1 |

@@ -33,7 +33,7 @@
 2:5 They that were full have hired out themselves for bread; and they that were hungry have ceased; while the barren hath borne seven, she that had many children hath languished.
 2:6 HaShem killeth, and maketh alive; He bringeth down to the grave, and bringeth up.
 2:7 HaShem maketh poor, and maketh rich; He bringeth low, He also lifteth up.
-2:8 He raiseth up the poor out of the dust, He lifteth up the needy from the dung-hill, to make them sit with princes, and inherit the throne of glory; for the pillars of the earth are HaShem'S, and He hath set the world upon them.
+2:8 He raiseth up the poor out of the dust, He lifteth up the needy from the dung-hill, to make them sit with princes, and inherit the throne of glory; for the pillars of the earth are HaShem's, and He hath set the world upon them.
 2:9 He will keep the feet of His holy ones, but the wicked shall be put to silence in darkness; for not by strength shall man prevail.
 2:10 They that strive with HaShem shall be broken to pieces; against them will He thunder in heaven; HaShem will judge the ends of the earth; and He will give strength unto His king, and exalt the horn of His anointed.
 2:11 And Elkanah went to Ramah to his house. And the child did minister unto HaShem before Eli the priest.
@@ -49,7 +49,7 @@
 2:21 So HaShem remembered Hannah, and she conceived, and bore three sons and two daughters. And the child Samuel grew before HaShem.
 2:22 Now Eli was very old; and he heard all that his sons did unto all Israel, and how that they lay with the women that did service at the door of the tent of meeting.
 2:23 And he said unto them: 'Why do ye such things? for I hear evil reports concerning you from all this people.
-2:24 Nay, my sons; for it is no good report which I hear HaShem'S people do spread abroad.
+2:24 Nay, my sons; for it is no good report which I hear HaShem's people do spread abroad.
 2:25 If one man sin against another, G-d shall judge him; but if a man sin against HaShem, who shall entreat for him?' But they hearkened not unto the voice of their father, because HaShem would slay them.
 2:26 And the child Samuel grew on, and increased in favour both with HaShem, and also with men.
 2:27 And there came a man of G-d unto Eli, and said unto him: 'Thus saith HaShem: Did I reveal Myself unto the house of thy father, when they were in Egypt in bondage to Pharaoh's house?
@@ -386,7 +386,7 @@
 16:3 And call Jesse to the sacrifice, and I will tell thee what thou shalt do; and thou shalt anoint unto Me him whom I name unto thee.'
 16:4 And Samuel did that which HaShem spoke, and came to Beth-lehem. And the elders of the city came to meet him trembling, and said: 'Comest thou peaceably?'
 16:5 And he said: 'Peaceably; I am come to sacrifice unto HaShem; sanctify yourselves and come with me to the sacrifice.' And he sanctified Jesse and his sons, and called them to the sacrifice.
-16:6 And it came to pass, when they were come, that he beheld Eliab, and said: 'Surely HaShem'S anointed is before Him.'
+16:6 And it came to pass, when they were come, that he beheld Eliab, and said: 'Surely HaShem's anointed is before Him.'
 16:7 But HaShem said unto Samuel: 'Look not on his countenance, or on the height of his stature; because I have rejected him; for it is not as man seeth: for man looketh on the outward appearance, but HaShem looketh on the heart.'
 16:8 Then Jesse called Abinadab, and made him pass before Samuel. And he said: 'Neither hath HaShem chosen this.'
 16:9 Then Jesse made Shammah to pass by. And he said: 'Neither hath HaShem chosen this.'
@@ -450,7 +450,7 @@
 17:44 And the Philistine said to David: 'Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field.'
 17:45 Then said David to the Philistine: 'Thou comest to me with a sword, and with a spear, and with a javelin; but I come to thee in the name of HaShem of hosts, the G-d of the armies of Israel, whom thou hast taunted.
 17:46 This day will HaShem deliver thee into my hand; and I will smite thee, and take thy head from off thee; and I will give the carcasses of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a G-d in Israel;
-17:47 and that all this assembly may know that HaShem saveth not with sword and spear; for the battle is HaShem'S, and He will give you into our hand.'
+17:47 and that all this assembly may know that HaShem saveth not with sword and spear; for the battle is HaShem's, and He will give you into our hand.'
 17:48 And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hastened, and ran toward the army to meet the Philistine.
 17:49 And David put his hand in his bag, and took thence a stone, and slung it, and smote the Philistine in his forehead; and the stone sank into his forehead, and he fell upon his face to the earth.
 17:50 So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.
@@ -478,7 +478,7 @@
 18:14 And David had great success in all his ways; and HaShem was with him.
 18:15 And when Saul saw that he had great success, he stood in awe of him.
 18:16 But all Israel and Judah loved David; for he went out and came in before them.
-18:17 And Saul said to David: 'Behold my elder daughter Merab, her will I give thee to wife; only be thou valiant for me, and fight HaShem'S battles.' For Saul said: 'Let not my hand be upon him, but let the hand of the Philistines be upon him.'
+18:17 And Saul said to David: 'Behold my elder daughter Merab, her will I give thee to wife; only be thou valiant for me, and fight HaShem's battles.' For Saul said: 'Let not my hand be upon him, but let the hand of the Philistines be upon him.'
 18:18 And David said unto Saul: 'Who am I, and what is my life, or my father's family in Israel, that I should be son-in-law to the king?'
 18:19 But it came to pass at the time when Merab Saul's daughter should have been given to David, that she was given unto Adriel the Meholathite to wife.
 18:20 And Michal Saul's daughter loved David; and they told Saul, and the thing pleased him.
@@ -594,7 +594,7 @@
 22:18 And the king said to Doeg: 'Turn thou, and fall upon the priests.' And Doeg the Edomite turned, and he fell upon the priests, and he slew on that day fourscore and five persons that did wear a linen ephod.
 22:19 And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen and asses and sheep, with the edge of the sword.
 22:20 And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.
-22:21 And Abiathar told David that Saul had slain HaShem'S priests.
+22:21 And Abiathar told David that Saul had slain HaShem's priests.
 22:22 And David said unto Abiathar: 'I knew on that day, when Doeg the Edomite was there, that he would surely tell Saul; I have brought about the death of all the persons of thy father's house.
 22:23 Abide thou with me, fear not; for he that seeketh my life seeketh thy life; for with me thou shalt be in safeguard.'
 23:1 And they told David, saying: 'Behold, the Philistines are fighting against Keilah, and they rob the threshing-floors.'
@@ -631,11 +631,11 @@
 24:4 And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet. Now David and his men were sitting in the innermost parts of the cave.
 24:5 And the men of David said unto him: 'Behold the day in which HaShem hath said unto thee: Behold, I will deliver thine enemy into thy hand, and thou shalt do to him as it shall seem good unto thee.' Then David arose, and cut off the skirt of Saul's robe privily.
 24:6 And it came to pass afterward, that David's heart smote him, because he had cut off Saul's skirt.
-24:7 And he said unto his men: 'HaShem forbid it me, that I should do this thing unto my lord, HaShem'S anointed, to put forth my hand against him, seeing he is HaShem'S anointed.'
+24:7 And he said unto his men: 'HaShem forbid it me, that I should do this thing unto my lord, HaShem's anointed, to put forth my hand against him, seeing he is HaShem's anointed.'
 24:8 So David checked his men with these words, and suffered them not to rise against Saul. And Saul rose up out of the cave, and went on his way.
 24:9 David also arose afterward, and went out of the cave, and cried after Saul, saying: 'My lord the king.' And when Saul looked behind him, David bowed with his face to the earth, and prostrated himself.
 24:10 And David said to Saul: 'Wherefore hearkenest thou to men's words, saying: Behold, David seeketh thy hurt?
-24:11 Behold, this day thine eyes have seen how that HaShem had delivered thee to-day into my hand in the cave; and some bade me kill thee; but mine eye spared thee; and I said: I will not put forth my hand against my lord; for he is HaShem'S anointed.
+24:11 Behold, this day thine eyes have seen how that HaShem had delivered thee to-day into my hand in the cave; and some bade me kill thee; but mine eye spared thee; and I said: I will not put forth my hand against my lord; for he is HaShem's anointed.
 24:12 Moreover, my father, see, yea, see the skirt of thy robe in my hand; for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in my hand, and I have not sinned against thee, though thou layest wait for my soul to take it.
 24:13 HaShem judge between me and thee, and HaShem avenge me of thee; but my hand shall not be upon thee.
 24:14 As saith the proverb of the ancients: Out of the wicked cometh forth wickedness; but my hand shall not be upon thee.
@@ -700,21 +700,21 @@
 26:6 Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying: 'Who will go down with me to Saul to the camp?' And Abishai said: 'I will go down with thee.'
 26:7 So David and Abishai came to the people by night; and, behold, Saul lay sleeping within the barricade, with his spear stuck in the ground at his head; and Abner and the people lay round about him.
 26:8 Then said Abishai to David: 'G-d hath delivered up thine enemy into thy hand this day; now therefore let me smite him, I pray thee, with the spear to the earth at one stroke, and I will not smite him the second time.'
-26:9 And David said to Abishai: 'Destroy him not; for who can put forth his hand against HaShem'S anointed, and be guiltless?'
+26:9 And David said to Abishai: 'Destroy him not; for who can put forth his hand against HaShem's anointed, and be guiltless?'
 26:10 And David said: 'As HaShem liveth, nay, but HaShem shall smite him; or his day shall come to die; or he shall go down into battle, and be swept away.
-26:11 HaShem forbid it me, that I should put forth my hand against HaShem'S anointed; but now take, I pray thee, the spear that is at his head, and the cruse of water and let us go.'
+26:11 HaShem forbid it me, that I should put forth my hand against HaShem's anointed; but now take, I pray thee, the spear that is at his head, and the cruse of water and let us go.'
 26:12 So David took the spear and the cruse of water from Saul's head; and they got them away, and no man saw it, nor knew it, neither did any awake; for they were all asleep; because a deep sleep from HaShem was fallen upon them.
 26:13 Then David went over to the other side, and stood on the top of the mountain afar off; a great space being between them.
 26:14 And David cried to the people, and to Abner the son of Ner, saying: 'Answerest thou not, Abner?' Then Abner answered and said: 'Who art thou that criest to the king?'
 26:15 And David said to Abner: 'Art not thou a valiant man? and who is like to thee in Israel? wherefore then hast thou not kept watch over thy lord the king? for there came one of the people in to destroy the king thy lord.
-26:16 This thing is not good that thou hast done. As HaShem liveth, ye deserve to die, because ye have not kept watch over your lord, HaShem'S anointed. And now, see, where the king's spear is, and the cruse of water that was at his head.'
+26:16 This thing is not good that thou hast done. As HaShem liveth, ye deserve to die, because ye have not kept watch over your lord, HaShem's anointed. And now, see, where the king's spear is, and the cruse of water that was at his head.'
 26:17 And Saul knew David's voice, and said: 'Is this thy voice, my son David?' And David said: 'It is my voice, my lord, O king.'
 26:18 And he said: 'Wherefore doth my lord pursue after his servant? for what have I done? or what evil is in my hand?
 26:19 Now therefore, I pray thee, let my lord the king hear the words of his servant. If it be HaShem that hath stirred thee up against me, let Him accept an offering; but if it be the children of men, cursed be they before HaShem; for they have driven me out this day that I should not cleave unto the inheritance of HaShem, saying: Go, serve other gods.
 26:20 Now therefore, let not my blood fall to the earth away from the presence of HaShem; for the king of Israel is come out to seek a single flea, as when one doth hunt a partridge in the mountains.'
 26:21 Then said Saul: 'I have sinned; return, my son David; for I will no more do thee harm, because my life was precious in thine eyes this day; behold, I have played the fool and erred exceedingly.'
 26:22 And David answered and said: 'Behold the king's spear! let then one of the young men come over and fetch it.
-26:23 And HaShem will render to every man his righteousness and his faithfulness; forasmuch as HaShem delivered thee into my hand to-day, and I would not put forth my hand against HaShem'S anointed.
+26:23 And HaShem will render to every man his righteousness and his faithfulness; forasmuch as HaShem delivered thee into my hand to-day, and I would not put forth my hand against HaShem's anointed.
 26:24 And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of HaShem, and let Him deliver me out of all tribulation.'
 26:25 Then Saul said to David: 'Blessed be thou, my son David; thou shalt both do mightily, and shalt surely prevail.' So David went his way, and Saul returned to his place.
 27:1 And David said in his heart: 'I shall now be swept away one day by the hand of Saul; there is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel; so shall I escape out of his hand.'

@@ -236,7 +236,7 @@
 9:26 Only in the land of Goshen, where the children of Israel were, was there no hail.
 9:27 And Pharaoh sent, and called for Moses and Aaron, and said unto them: 'I have sinned this time; HaShem is righteous, and I and my people are wicked.
 9:28 Entreat HaShem, and let there be enough of these mighty thunderings and hail; and I will let you go, and ye shall stay no longer.'
-9:29 And Moses said unto him: 'As soon as I am gone out of the city, I will spread forth my hands unto HaShem; the thunders shall cease, neither shall there be any more hail; that thou mayest know that the earth is HaShem'S.
+9:29 And Moses said unto him: 'As soon as I am gone out of the city, I will spread forth my hands unto HaShem; the thunders shall cease, neither shall there be any more hail; that thou mayest know that the earth is HaShem's.
 9:30 But as for thee and thy servants, I know that ye will not yet fear HaShem G-d.' —
 9:31 And the flax and the barley were smitten; for the barley was in the ear, and the flax was in bloom.
 9:32 But the wheat and the spelt were not smitten; for they ripen late. —
@@ -292,7 +292,7 @@
 12:8 And they shall eat the flesh in that night, roast with fire, and unleavened bread; with bitter herbs they shall eat it.
 12:9 Eat not of it raw, nor sodden at all with water, but roast with fire; its head with its legs and with the inwards thereof.
 12:10 And ye shall let nothing of it remain until the morning; but that which remaineth of it until the morning ye shall burn with fire.
-12:11 And thus shall ye eat it: with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste — it is HaShem'S passover.
+12:11 And thus shall ye eat it: with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste — it is HaShem's passover.
 12:12 For I will go through the land of Egypt in that night, and will smite all the first-born in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgments: I am HaShem.
 12:13 And the blood shall be to you for a token upon the houses where ye are; and when I see the blood, I will pass over you, and there shall no plague be upon you to destroy you, when I smite the land of Egypt.
 12:14 And this day shall be unto you for a memorial, and ye shall keep it a feast to HaShem; throughout your generations ye shall keep it a feast by an ordinance for ever.
@@ -308,7 +308,7 @@
 12:24 And ye shall observe this thing for an ordinance to thee and to thy sons for ever.
 12:25 And it shall come to pass, when ye be come to the land which HaShem will give you, according as He hath promised, that ye shall keep this service.
 12:26 And it shall come to pass, when your children shall say unto you: What mean ye by this service?
-12:27 that ye shall say: It is the sacrifice of HaShem'S passover, for that He passed over the houses of the children of Israel in Egypt, when He smote the Egyptians, and delivered our houses.' And the people bowed the head and worshipped.
+12:27 that ye shall say: It is the sacrifice of HaShem's passover, for that He passed over the houses of the children of Israel in Egypt, when He smote the Egyptians, and delivered our houses.' And the people bowed the head and worshipped.
 12:28 And the children of Israel went and did so; as HaShem had commanded Moses and Aaron, so did they.
 12:29 And it came to pass at midnight, that HaShem smote all the firstborn in the land of Egypt, from the first-born of Pharaoh that sat on his throne unto the first-born of the captive that was in the dungeon; and all the first-born of cattle.
 12:30 And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.
@@ -344,7 +344,7 @@
 13:9 And it shall be for a sign unto thee upon thy hand, and for a memorial between thine eyes, that the law of HaShem may be in thy mouth; for with a strong hand hath HaShem brought thee out of Egypt.
 13:10 Thou shalt therefore keep this ordinance in its season from year to year.
 13:11 And it shall be when HaShem shall bring thee into the land of the Canaanite, as He swore unto thee and to thy fathers, and shall give it thee,
-13:12 that thou shalt set apart unto HaShem all that openeth the womb; every firstling that is a male, which thou hast coming of a beast, shall be HaShem'S.
+13:12 that thou shalt set apart unto HaShem all that openeth the womb; every firstling that is a male, which thou hast coming of a beast, shall be HaShem's.
 13:13 And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break its neck; and all the first-born of man among thy sons shalt thou redeem.
 13:14 And it shall be when thy son asketh thee in time to come, saying: What is this? that thou shalt say unto him: By strength of hand HaShem brought us out from Egypt, from the house of bondage;
 13:15 and it came to pass, when Pharaoh would hardly let us go that HaShem slew all the firstborn in the land of Egypt, both the first-born of man, and the first-born of beast; therefore I sacrifice to HaShem all that openeth the womb, being males; but all the first-born of my sons I redeem.
@@ -926,7 +926,7 @@
 32:23 So they said unto me: Make us a god, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we know not what is become of him.
 32:24 And I said unto them: Whosoever hath any gold, let them break it off; so they gave it me; and I cast it into the fire, and there came out this calf.'
 32:25 And when Moses saw that the people were broken loose — for Aaron had let them loose for a derision among their enemies —
-32:26 then Moses stood in the gate of the camp, and said: 'Whoso is on HaShem'S side, let him come unto me.' And all the sons of Levi gathered themselves together unto him.
+32:26 then Moses stood in the gate of the camp, and said: 'Whoso is on HaShem's side, let him come unto me.' And all the sons of Levi gathered themselves together unto him.
 32:27 And he said unto them: 'Thus saith HaShem, the G-d of Israel: Put ye every man his sword upon his thigh, and go to and fro from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.'
 32:28 And the sons of Levi did according to the word of Moses; and there fell of the people that day about three thousand men.
 32:29 And Moses said: 'Consecrate yourselves to-day to HaShem, for every man hath been against his son and against his brother; that He may also bestow upon you a blessing this day.'
@@ -998,7 +998,7 @@
 35:2 Six days shall work be done, but on the seventh day there shall be to you a holy day, a sabbath of solemn rest to HaShem; whosoever doeth any work therein shall be put to death.
 35:3 Ye shall kindle no fire throughout your habitations upon the sabbath day.'
 35:4 And Moses spoke unto all the congregation of the children of Israel, saying: 'This is the thing which HaShem commanded, saying:
-35:5 Take ye from among you an offering unto HaShem, whosoever is of a willing heart, let him bring it, HaShem'S offering: gold, and silver, and brass;
+35:5 Take ye from among you an offering unto HaShem, whosoever is of a willing heart, let him bring it, HaShem's offering: gold, and silver, and brass;
 35:6 and blue, and purple, and scarlet, and fine linen, and goats' hair;
 35:7 and rams' skins dyed red, and sealskins, and acacia-wood;
 35:8 and oil for the light, and spices for the anointing oil, and for the sweet incense;
@@ -1014,10 +1014,10 @@
 35:18 the pins of the tabernacle, and the pins of the court, and their cords;
 35:19 the plaited garments, for ministering in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's office.'
 35:20 And all the congregation of the children of Israel departed from the presence of Moses.
-35:21 And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and brought HaShem'S offering, for the work of the tent of meeting, and for all the service thereof, and for the holy garments.
+35:21 And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and brought HaShem's offering, for the work of the tent of meeting, and for all the service thereof, and for the holy garments.
 35:22 And they came, both men and women, as many as were willing-hearted, and brought nose-rings, and ear-rings, and signet-rings, and girdles, all jewels of gold; even every man that brought an offering of gold unto HaShem.
 35:23 And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats' hair, and rams' skins dyed red, and sealskins, brought them.
-35:24 Every one that did set apart an offering of silver and brass brought HaShem'S offering; and every man, with whom was found acacia-wood for any work of the service, brought it.
+35:24 Every one that did set apart an offering of silver and brass brought HaShem's offering; and every man, with whom was found acacia-wood for any work of the service, brought it.
 35:25 And all the women that were wise-hearted did spin with their hands, and brought that which they had spun, the blue, and the purple, the scarlet, and the fine linen.
 35:26 And all the women whose heart stirred them up in wisdom spun the goats' hair.
 35:27 And the rulers brought the onyx stones, and the stones to be set, for the ephod, and for the breastplate;

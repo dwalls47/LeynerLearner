@@ -130,7 +130,7 @@
 3:42 And Moses numbered, as HaShem commanded him, all the first-born among the children of Israel.
 3:43 And all the first-born males according to the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.
 3:44 And HaShem spoke unto Moses, saying:
-3:45 'Take the Levites instead of all the first-born among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be Mine, even HaShem'S.
+3:45 'Take the Levites instead of all the first-born among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be Mine, even HaShem's.
 3:46 And as for the redemption of the two hundred and three score and thirteen of the first-born of the children of Israel, that are over and above the number of the Levites,
 3:47 thou shalt take five shekels apiece by the poll; after the shekel of the sanctuary shalt thou take them — the shekel is twenty gerahs.
 3:48 And thou shalt give the money wherewith they that remain over of them are redeemed unto Aaron and to his sons.'
@@ -193,7 +193,7 @@
 5:5 And HaShem spoke unto Moses, saying:
 5:6 Speak unto the children of Israel: When a man or woman shall commit any sin that men commit, to commit a trespass against HaShem, and that soul be guilty;
 5:7 then they shall confess their sin which they have done; and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty.
-5:8 But if the man have no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made shall be HaShem'S, even the priest's; besides the ram of the atonement, whereby atonement shall be made for him.
+5:8 But if the man have no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made shall be HaShem's, even the priest's; besides the ram of the atonement, whereby atonement shall be made for him.
 5:9 And every heave-offering of all the holy things of the children of Israel, which they present unto the priest, shall be his.
 5:10 And every man's hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.
 5:11 and HaShem spoke unto Moses, saying:
@@ -440,13 +440,13 @@
 11:20 but a whole month, until it come out at your nostrils, and it be loathsome unto you; because that ye have rejected HaShem who is among you, and have troubled Him with weeping, saying: Why, now, came we forth out of Egypt?'
 11:21 And Moses said: 'The people, among whom I am, are six hundred thousand men on foot; and yet Thou hast said: I will give them flesh, that they may eat a whole month!
 11:22 If flocks and herds be slain for them, will they suffice them? or if all the fish of the sea be gathered together for them, will they suffice them?'
-11:23 And HaShem said unto Moses: 'Is HaShem'S hand waxed short? now shalt thou see whether My word shall come to pass unto thee or not.'
+11:23 And HaShem said unto Moses: 'Is HaShem's hand waxed short? now shalt thou see whether My word shall come to pass unto thee or not.'
 11:24 And Moses went out, and told the people the words of HaShem; and he gathered seventy men of the elders of the people, and set them round about the Tent.
 11:25 And HaShem came down in the cloud, and spoke unto him, and took of the spirit that was upon him, and put it upon the seventy elders; and it came to pass, that, when the spirit rested upon them, they prophesied, but they did so no more.
 11:26 But there remained two men in the camp, the name of the one was Eldad, and the name of the other Medad; and the spirit rested upon them; and they were of them that were recorded, but had not gone out unto the Tent; and they prophesied in the camp.
 11:27 And there ran a young man, and told Moses, and said: 'Eldad and Medad are prophesying in the camp.'
 11:28 And Joshua the son of Nun, the minister of Moses from his youth up, answered and said: 'My lord Moses, shut them in.'
-11:29 And Moses said unto him: 'Art thou jealous for my sake? would that all HaShem'S people were prophets, that HaShem would put His spirit upon them!'
+11:29 And Moses said unto him: 'Art thou jealous for my sake? would that all HaShem's people were prophets, that HaShem would put His spirit upon them!'
 11:30 And Moses withdrew into the camp, he and the elders of Israel.
 11:31 And there went forth a wind from HaShem, and brought across quails from the sea, and let them fall by the camp, about a day's journey on this side, and a day's journey on the other side, round about the camp, and about two cubits above the face of the earth.
 11:32 And the people rose up all that day, and all the night, and all the next day, and gathered the quails; he that gathered least gathered ten heaps; and they spread them all abroad for themselves round about the camp.
@@ -987,7 +987,7 @@
 28:13 and a several tenth part of fine flour mingled with oil for a meal-offering unto every lamb; for a burnt-offering of a sweet savour, an offering made by fire unto HaShem.
 28:14 And their drink-offerings shall be half a hin of wine for a bullock, and the third part of a hin for the ram, and the fourth part of a hin for a lamb. This is the burnt-offering of every new moon throughout the months of the year.
 28:15 And one he-goat for a sin-offering unto HaShem; it shall be offered beside the continual burnt-offering, and the drink-offering thereof.
-28:16 And in the first month, on the fourteenth day of the month, is HaShem'S passover.
+28:16 And in the first month, on the fourteenth day of the month, is HaShem's passover.
 28:17 And on the fifteenth day of this month shall be a feast; seven days shall unleavened bread be eaten.
 28:18 In the first day shall be a holy convocation; ye shall do no manner of servile work;
 28:19 but ye shall present an offering made by fire, a burnt-offering unto HaShem: two young bullocks, and one ram, and seven he-lambs of the first year; they shall be unto you without blemish;
@@ -1061,7 +1061,7 @@
 30:17 These are the statutes, which HaShem commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father's house.
 31:1 And HaShem spoke unto Moses, saying:
 31:2 'Avenge the children of Israel of the Midianites; afterward shalt thou be gathered unto thy people.'
-31:3 And Moses spoke unto the people, saying: 'Arm ye men from among you for the war, that they may go against Midian, to execute HaShem'S vengeance on Midian.
+31:3 And Moses spoke unto the people, saying: 'Arm ye men from among you for the war, that they may go against Midian, to execute HaShem's vengeance on Midian.
 31:4 Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.'
 31:5 So there were delivered, out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war.
 31:6 And Moses sent them, a thousand of every tribe, to the war, them and Phinehas the son of Eleazar the priest, to the war, with the holy vessels and the trumpets for the alarm in his hand.
@@ -1095,10 +1095,10 @@
 31:34 and threescore and one thousand asses,
 31:35 and thirty and two thousand persons in all, of the women that had not known man by lying with him.
 31:36 And the half, which was the portion of them that went out to war, was in number three hundred thousand and thirty thousand and seven thousand and five hundred sheep.
-31:37 And HaShem'S tribute of the sheep was six hundred and threescore and fifteen.
-31:38 And the beeves were thirty and six thousand, of which HaShem'S tribute was threescore and twelve.
-31:39 And the asses were thirty thousand and five hundred, of which HaShem'S tribute was threescore and one.
-31:40 And the persons were sixteen thousand, of whom HaShem'S tribute was thirty and two persons.
+31:37 And HaShem's tribute of the sheep was six hundred and threescore and fifteen.
+31:38 And the beeves were thirty and six thousand, of which HaShem's tribute was threescore and twelve.
+31:39 And the asses were thirty thousand and five hundred, of which HaShem's tribute was threescore and one.
+31:40 And the persons were sixteen thousand, of whom HaShem's tribute was thirty and two persons.
 31:41 And Moses gave the tribute, which was set apart for HaShem, unto Eleazar the priest, as HaShem commanded Moses.
 31:42 And of the children of Israel's half, which Moses divided off from the men that warred —
 31:43 now the congregation's half was three hundred thousand and thirty thousand and seven thousand and five hundred sheep,
@@ -1108,7 +1108,7 @@
 31:47 even of the children of Israel's half, Moses took one drawn out of every fifty, both of man and of beast, and gave them unto the Levites, that kept the charge of the tabernacle of HaShem; as HaShem commanded Moses.
 31:48 And the officers that were over the thousands of the host, the captains of thousands, and the captains of hundreds, came near unto Moses;
 31:49 and they said unto Moses: 'Thy servants have taken the sum of the men of war that are under our charge, and there lacketh not one man of us.
-31:50 And we have brought HaShem'S offering, what every man hath gotten, of jewels of gold, armlets, and bracelets, signet-rings, ear-rings, and girdles, to make atonement for our souls before HaShem.'
+31:50 And we have brought HaShem's offering, what every man hath gotten, of jewels of gold, armlets, and bracelets, signet-rings, ear-rings, and girdles, to make atonement for our souls before HaShem.'
 31:51 And Moses and Eleazar the priest took the gold of them, even all wrought jewels.
 31:52 And all the gold of the gift that they set apart for HaShem, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels. —
 31:53 For the men of war had taken booty, every man for himself. —
@@ -1122,10 +1122,10 @@
 32:7 And wherefore will ye turn away the heart of the children of Israel from going over into the land which HaShem hath given them?
 32:8 Thus did your fathers, when I sent them from Kadesh-barnea to see the land.
 32:9 For when they went up unto the valley of Eshcol, and saw the land, they turned away the heart of the children of Israel, that they should not go into the land which HaShem had given them.
-32:10 And HaShem'S anger was kindled in that day, and He swore, saying:
+32:10 And HaShem's anger was kindled in that day, and He swore, saying:
 32:11 Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I swore unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed Me;
 32:12 save Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun; because they have wholly followed HaShem.
-32:13 And HaShem'S anger was kindled against Israel, and He made them wander to and fro in the wilderness forty years, until all the generation, that had done evil in the sight of HaShem, was consumed.
+32:13 And HaShem's anger was kindled against Israel, and He made them wander to and fro in the wilderness forty years, until all the generation, that had done evil in the sight of HaShem, was consumed.
 32:14 And, behold, ye are risen up in your fathers' stead, a brood of sinful men, to augment yet the fierce anger of HaShem toward Israel.
 32:15 For if ye turn away from after Him, He will yet again leave them in the wilderness; and so ye will destroy all this people.'
 32:16 And they came near unto him, and said: 'We will build sheepfolds here for our cattle, and cities for our little ones;

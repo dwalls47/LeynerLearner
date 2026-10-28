@@ -380,22 +380,22 @@
         {
           "path": "1Kgs.txt",
           "size": 132683,
-          "sha256": "06056b1f1c38be8672a2502de9e7dde5ffdb1fd41bf79c071c079b1a9d423d13"
+          "sha256": "d731411e8b509247536978407bfca92ba5ae1cfb1f915972fe1f6e83c8d77050"
         },
         {
           "path": "1Sam.txt",
           "size": 135140,
-          "sha256": "1a4d4f8c02def61aa380716ddb170cd66db35024a0d6a457266988ed4147f4a4"
+          "sha256": "7b43fc524ec923b01d518ccfaa1d611ec2a359abc1444b545f0357e06e19c925"
         },
         {
           "path": "2Kgs.txt",
           "size": 125904,
-          "sha256": "f1360e88a2f2df2de04bb18d1c50f7778b8e95da9de70c6f248ab753195948d8"
+          "sha256": "4145cc401a5c25206bc998523d673958072c631ea89399aff9827068b6679bbc"
         },
         {
           "path": "2Sam.txt",
           "size": 111694,
-          "sha256": "1ed33dd215d46089bf157aec49781dc4621af567ad908f58718e3203a81037f6"
+          "sha256": "95b573502ef315f351a1af12ed76eb6ff37c815dda88e2544639d1cfb3b15734"
         },
         {
           "path": "Amos.txt",
@@ -405,17 +405,17 @@
         {
           "path": "Deut.txt",
           "size": 152323,
-          "sha256": "ed06b3c2979e75677658620eb25d3085cd44c9b73d3995a25d1e20058265d1db"
+          "sha256": "c4988d95842aab58f8fbc17be2ccbc40e16bb73c02bf4781e69197a7bfe0c550"
         },
         {
           "path": "Exod.txt",
           "size": 177333,
-          "sha256": "f4770b4579cf43061db51f02f6a2acb0787c59933c8a4bd512359aea7b894f79"
+          "sha256": "13cafe5bb46d7ecdf304ec9fc161fe5b0b5e4f5a3975c31edaa1b4876830debf"
         },
         {
           "path": "Ezek.txt",
           "size": 214599,
-          "sha256": "448cee38c87c9bf40f0a9371bb5b8b83b7f624fd218ebfe1dcb5bf0ed054c6a8"
+          "sha256": "2b5f473af4bd833e87280676eed403f012b64fce2b1828adfab554acde9c3bfe"
         },
         {
           "path": "Gen.txt",
@@ -425,32 +425,32 @@
         {
           "path": "Hab.txt",
           "size": 8165,
-          "sha256": "18f70686f0f77b69e618dae2e1d3dbf982522221bcb4d852547112ec1463d963"
+          "sha256": "553f81955773b303784c8c9b87b65c3049176b4d2f4ca3fb69f5e713c90b9faa"
         },
         {
           "path": "Hag.txt",
           "size": 5957,
-          "sha256": "e98250632427f6c8d3d9fdde19bfc65d169fa767331600b1f6253976d65a4cf1"
+          "sha256": "46edbf327682e7ac192c9b815afc3e135a879b817e335c2d95be6454fe4d49a7"
         },
         {
           "path": "Hos.txt",
           "size": 28430,
-          "sha256": "6801179fa89c7b0d86942c3864eb712756b744a5fd1a4be994bffa2d72bdee98"
+          "sha256": "5e65c2a6b88ac34633091165500f097d5c09af0d45115f52389ef02d4243eece"
         },
         {
           "path": "Isa.txt",
           "size": 201241,
-          "sha256": "1687636f7ac7df9b72b6ea1b11f69d905ee4557fc0423990d6960b3b55661008"
+          "sha256": "07f22ee2902de2e41bdfe57fbdcdb758f81910460bbe0a107fa738d32c646df0"
         },
         {
           "path": "Jer.txt",
           "size": 231929,
-          "sha256": "8793728ce0f5644d6c19934c3709036c00b7ae9382e7bd0125b4debd8cb98470"
+          "sha256": "6a0e1c522afd34fbadd4d2cfefa54aaf07de963daafec9621607bcf1102054f0"
         },
         {
           "path": "Joel.txt",
           "size": 11049,
-          "sha256": "e8a2e5a92cc9b2d2443b89080c1ad64c48f6c8d802106ae43d971375bb64c4a4"
+          "sha256": "dc023851a2d0e1fa1bfc27a71fee690dc1865905b5333f918864be9b14ff0e87"
         },
         {
           "path": "Jonah.txt",
@@ -460,17 +460,17 @@
         {
           "path": "Josh.txt",
           "size": 105378,
-          "sha256": "7adb0736c1fba7358bb7a3a9fb743e6d25655a8df646e91b8f2bb46bf06e10c7"
+          "sha256": "8bb18e4fc6894500c09b399015309971cb57bcf12c59f1c943b129751bbdc53e"
         },
         {
           "path": "Judg.txt",
           "size": 103059,
-          "sha256": "ea1af0da26cc3d75fbf80123f43a24738919162bfd36bb8a00903ee60d82c6b2"
+          "sha256": "3138fe17c19b2b38f5149644df0106fc9c213aa8029e643c2a2109b29ef5ce65"
         },
         {
           "path": "Lev.txt",
           "size": 131407,
-          "sha256": "41d8617c8b3dacc67d1378c70241d246d6f2d1ab0ca8a25c85fda3788bbdaaa9"
+          "sha256": "6ae15bdf2e8649e26c4326128e07e5cb7fe9ef90d71ec7c33849b8e3569941be"
         },
         {
           "path": "Mal.txt",
@@ -480,7 +480,7 @@
         {
           "path": "Mic.txt",
           "size": 16996,
-          "sha256": "d91272887d51ac0420d9378f91a1167333fdb08ce66dc8a7ac753b6bf9bfb615"
+          "sha256": "9daccec7fb6fb72ba15a921ce26040b11c9210f3efcff37d910d16d35e8f003f"
         },
         {
           "path": "Nah.txt",
@@ -490,12 +490,12 @@
         {
           "path": "Num.txt",
           "size": 183455,
-          "sha256": "74fe6cb58dabdbf7f796b2eb07fefd58a3ed0977b7e2575383806e92bd8329b1"
+          "sha256": "51eb471c2f168c319922fea872fdc9553fb12a9c3ebbaec14555d4c47541e9ab"
         },
         {
           "path": "Obad.txt",
           "size": 3610,
-          "sha256": "771a4a5a74df982dd74ca43ae4abaffc3eb740f85f26d5a8cddc3e40810ae147"
+          "sha256": "9bdd9e688fb4de5c3065282b66e68bbfd1ea349bc35c25a7978f5433d750b3bc"
         },
         {
           "path": "README.md",
@@ -505,12 +505,12 @@
         {
           "path": "Zech.txt",
           "size": 34158,
-          "sha256": "f116b3021c097768f2039990b0d23af41aeed6a864e7c593dd2347b3b2c0c94e"
+          "sha256": "357e0aefbaa9a543c403495503d895fb911292339560aa00031be02191ef8929"
         },
         {
           "path": "Zeph.txt",
           "size": 8821,
-          "sha256": "9b109942dd5373c6a141e266f895e2d80b90c84a9eb1f1ce5e522bbbf68a0c0c"
+          "sha256": "ec080457f7807fbb9f6ddc46048016592495930c8859f812931800122be477a0"
         }
       ]
     },
@@ -581,6 +581,155 @@
           "path": "SOURCE.md",
           "size": 1760,
           "sha256": "b9490358c9884ee63fcaf1ad4d025007efa3af4e79120b236d8d19c55e2ffcb5"
+        }
+      ]
+    },
+    {
+      "folder": "EnglishModern",
+      "name": "English: JPS 1917 Modern (JPS 1917 in modern English), an optional dataset",
+      "source": "Data\\English (JPS 1917), modernized by Tools\\EnglishModernizer",
+      "version": "2026-10-27",
+      "spdx": "CC0-1.0",
+      "license": "CC0 1.0 (public domain dedication); made from the public-domain JPS 1917",
+      "notes": "Rules (guided by Adam Cohn's Modernized Tanakh, Genesis and Jonah, Sefaria, CC-BY; none of its wording copied) plus about 170 listed hand edits (Tools\\EnglishModernizer\\polish-edits.tsv). See README.md.",
+      "generated": {
+        "*.txt": "Tools\\EnglishModernizer, from the English folder and Tools\\EnglishModernizer\\polish.json"
+      },
+      "files": [
+        {
+          "path": "1Kgs.txt",
+          "size": 130630,
+          "sha256": "1e52014681323e0a90ef474a168a2f4e8ccb0bb7485069777f8d9615c3b8bdf0"
+        },
+        {
+          "path": "1Sam.txt",
+          "size": 132957,
+          "sha256": "ca38e2f7bbcc8ed8dfa29d8838a3bcf8dac226c56fa4d4e1d5f27df22499d169"
+        },
+        {
+          "path": "2Kgs.txt",
+          "size": 124478,
+          "sha256": "9f1c0a4a86bdd8cc5c17c0ad81cef0e5d8afe3ea5705b4905740d967a0568f54"
+        },
+        {
+          "path": "2Sam.txt",
+          "size": 110034,
+          "sha256": "9ae74ee9e82ad3a1125966168adf1335f5296aef591dd8c6fac5a5e7b70f229f"
+        },
+        {
+          "path": "Amos.txt",
+          "size": 22009,
+          "sha256": "c0a620ceb714c26748e11815e377450d004c9b02eb377b1cbd38270ee2b77536"
+        },
+        {
+          "path": "Deut.txt",
+          "size": 149402,
+          "sha256": "83f338a7205148619aa2171e7441f57cf80e5df1f405a918fb9191246dc570d2"
+        },
+        {
+          "path": "Exod.txt",
+          "size": 174031,
+          "sha256": "48c20fd8cc78adc1781337112a2dc0b807e0d9cc174ee93fb08ede67b8b7ae47"
+        },
+        {
+          "path": "Ezek.txt",
+          "size": 210542,
+          "sha256": "82166151373d2aca89fd583cf3f875a36a7e2bded5f1f530347c4690172f8cdd"
+        },
+        {
+          "path": "Gen.txt",
+          "size": 204510,
+          "sha256": "56e0ab199c5350735323c843c4c025eccd7c696ab9fe82aea44d5cb5c4b89996"
+        },
+        {
+          "path": "Hab.txt",
+          "size": 7925,
+          "sha256": "3f8786dc68284b1c9633fe7816b6bcc3ae235a5e6b02a32d18fb113dc15e89f5"
+        },
+        {
+          "path": "Hag.txt",
+          "size": 5876,
+          "sha256": "af8954f3ea9f0c63920777bed51ad4c6be7839e2349b9d5ce7a348746e999359"
+        },
+        {
+          "path": "Hos.txt",
+          "size": 28063,
+          "sha256": "8a313d0b08fa3f95a3e68604b87d266cea53665f4ea19c3b432ce49507a9df15"
+        },
+        {
+          "path": "Isa.txt",
+          "size": 197502,
+          "sha256": "586b72cc04303ea53181dadbf6b1e8e34b446a6cf510854262bf2b4cd34a40da"
+        },
+        {
+          "path": "Jer.txt",
+          "size": 227813,
+          "sha256": "1f873c755968043e6495e21e490f716a3577eba1f3b0c352b23cd7027a76b955"
+        },
+        {
+          "path": "Joel.txt",
+          "size": 10906,
+          "sha256": "db3cff58bf495b99099136e5c579a9fb39aea310416ec29498f2206c5cbcce38"
+        },
+        {
+          "path": "Jonah.txt",
+          "size": 6852,
+          "sha256": "2688806adbea3fa4490eb9a6b836a98aeea0528aee2c73287c90458377ffe803"
+        },
+        {
+          "path": "Josh.txt",
+          "size": 104236,
+          "sha256": "18b9d80080a00116b9565f26ce4ab712239744c80d5f4049df6e7d9081da760e"
+        },
+        {
+          "path": "Judg.txt",
+          "size": 101447,
+          "sha256": "3677fb3ad3917df6da1c91e127ab94dd6e6b86f5523be07101d66936d9eb36e9"
+        },
+        {
+          "path": "Lev.txt",
+          "size": 128785,
+          "sha256": "454f7327be70c7c4cfbe03e62209e77242e4d770644943e5970d55221fae1306"
+        },
+        {
+          "path": "Mal.txt",
+          "size": 9329,
+          "sha256": "6907492dfdbd5e6dd71749830ce7f1ef40e4ef0964daa8412825b9701f31eef4"
+        },
+        {
+          "path": "Mic.txt",
+          "size": 16696,
+          "sha256": "486a59097ecb9b88176e4fd9dc9de33db1b89eee71847c233b28d1aaee334ccb"
+        },
+        {
+          "path": "Nah.txt",
+          "size": 6946,
+          "sha256": "1908a766c3e2576c4e53aa6fd2c55c1804a6294e13666217ac2f61bda1e9cdac"
+        },
+        {
+          "path": "Num.txt",
+          "size": 180797,
+          "sha256": "1c118204a490b9cfa6f7cfeedc1fb7707788d33834b9bcb23d5801efa9bf7105"
+        },
+        {
+          "path": "Obad.txt",
+          "size": 3519,
+          "sha256": "5bbd86b17ad32f9435a1169e1fb44cf5c3ad5fcb2d82bf0b0a0a36dd99fb476a"
+        },
+        {
+          "path": "README.md",
+          "size": 4465,
+          "sha256": "56312e79b8e457bb026a54896322664847148f6493e6519e091842c73f46c5d3"
+        },
+        {
+          "path": "Zech.txt",
+          "size": 33384,
+          "sha256": "6d177ae3b50d05339b9c27f074c8dd9493143cbd87e4f496c912e27d63914138"
+        },
+        {
+          "path": "Zeph.txt",
+          "size": 8743,
+          "sha256": "d5576625cbb26741bbed62a50ad2f81720959a9c9ebe7f68c1d5ae1c0c8cdf1e"
         }
       ]
     }

@@ -115,14 +115,14 @@ public static class PdfRenderer
                                 }
                             }
                         });
-                    var withEnglish = section.Verses.Where(v => v.English != null).ToList();
-                    if (o.English && withEnglish.Count > 0)
+                    var withEnglish = section.Verses.Where(v => v.EnglishFor(o.English) != null).ToList();
+                    if (withEnglish.Count > 0)
                         col.Item().PaddingBottom(8).Text(t =>
                         {
                             foreach (var v in withEnglish)
                             {
                                 t.Span($"{v.Chapter}:{v.Number} ").FontSize(small).FontColor(Colors.Grey.Medium);
-                                t.Span(v.English + " ").FontSize(eng).FontColor(Colors.Grey.Darken2);
+                                t.Span(v.EnglishFor(o.English) + " ").FontSize(eng).FontColor(Colors.Grey.Darken2);
                             }
                         });
                 }

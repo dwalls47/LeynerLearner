@@ -49,7 +49,8 @@ namespace LeynerLearner
         bool Israel => chkIsrael.Checked;
         HaftarahCustom Custom => (HaftarahCustom)cboHaftarah.SelectedIndex;
         RenderOptions Options => new(cboFont.SelectedItem as string ?? "Times New Roman", (float)numSize.Value,
-                                     chkEnglish.Checked, (TransliterationStyle)Math.Max(0, cboTranslit.SelectedIndex));
+                                     (EnglishVersion)Math.Max(0, cboEnglish.SelectedIndex),
+                                     (TransliterationStyle)Math.Max(0, cboTranslit.SelectedIndex));
 
         void LeynerLearner_Load(object? sender, EventArgs e)
         {
@@ -76,6 +77,7 @@ namespace LeynerLearner
             cboFont.SelectedItem = ShevaNa.FontFamily;
             cboShevaNa.SelectedIndex = (int)ShevaNaStyle.LargeSheva;
             cboTranslit.SelectedIndex = (int)TransliterationStyle.Off;
+            cboEnglish.SelectedIndex = (int)EnglishVersion.Off;
             updating = false;
 
             GoToDate(DateTime.Today, shabbatOrFestival: true);

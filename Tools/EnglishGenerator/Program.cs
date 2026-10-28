@@ -91,6 +91,7 @@ static class NameStyle
 {
     public static string Apply(string s)
     {
+        s = Regex.Replace(s, @"\bLORD'S\b", "LORD's");           // JPS prints the possessive in capitals
         s = Regex.Replace(s, @"\b[Tt]he LORD\b", "HaShem");      // the LORD, the LORD's
         s = Regex.Replace(s, @"\b(LORD|GOD)\b", "HaShem");       // "O LORD", "Lord GOD"
         s = Regex.Replace(s, @"\bGod\b", "G-d");                 // God, God's (not "gods")

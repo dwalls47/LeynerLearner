@@ -1,37 +1,40 @@
-# English translation
+# English translation: JPS 1917
 
-The English text in this folder is derived from the **World Messianic Bible** (WMB, also called the Hebrew Names
-Version or the World English Bible: Messianic Edition), "August 2022 stable text", by Michael Paul Johnson and
-eBible.org.
+The English text in this folder is the **JPS 1917** translation, *The Holy Scriptures According to the Masoretic
+Text: A New Translation*, published by the Jewish Publication Society of America in 1917.
 
-- Source: <https://eBible.org/find/details.php?id=engwmb>, file `engwmb_vpl.zip` (verse-per-line text),
-  downloaded 2026-10-20, SHA-256 `18A7519B8BF6A749E7B021281705214066D0B7D290998B589CDB2BCB7474900A`
-- License: **public domain**. eBible.org's statement: "The World Messianic Bible is not copyrighted, however
-  'World Messianic Bible' is a Trademark." It asks that a changed text not be called the World Messianic Bible.
-  These files are changed (see below), so the app calls them "English, based on the World Messianic Bible".
+- Source: eBible.org's edition, "JPS TaNaKH 1917" (<https://eBible.org/find/details.php?id=engjps>), file
+  `engjps_vpl.zip` (verse-per-line text; eBible.org's text dated 2023-09-19), downloaded 2026-10-27,
+  SHA-256 `2C23E2689258E3F457F887AAD1C1162CBCB7135450F14E49613C773CA205F7B8`
+- License: **public domain** (published in 1917). eBible.org lists it as public domain; the Open Siddur Project,
+  which JPS supports in sharing the 1917 text, publishes it under CC0:
+  <https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/translations/tanakh-the-holy-scriptures-a-new-translation-jps-1917/>
+
+eBible.org's verse-per-line file was chosen over Open Siddur's plain text (a conversion of the printed page, with
+footnote letters attached to words) because it has one verse per line with the notes removed.
 
 ## How the files were made
 
-`Tools\EnglishGenerator` reads `engwmb_vpl.txt` and writes one file per book (`Gen.txt`, `Exod.txt`, ...), one
-verse per line as `chapter:verse text`, UTF-8. It makes two kinds of change:
+`Tools\EnglishGenerator` reads `engjps_vpl.txt` and writes one file per book (`Gen.txt`, `Exod.txt`, ...), one
+verse per line as `chapter:verse text`, UTF-8. It makes these changes:
 
-1. **Jewish verse numbering.** The WMB follows the chapter and verse numbering of English (Christian) Bibles,
-   which differs from the Hebrew in places: for example Malachi 4:1-6 is Malachi 3:19-24, Deuteronomy 12:32 is
-   13:1, and Exodus 22:1 is 21:37. Each verse is moved to the numbering of the Hebrew text in `Data\MAM`.
-   Where one English verse is two Hebrew verses (Numbers 26:1, 1 Samuel 20:42, 1 Kings 22:43) it is divided;
-   where several are one (the four short commandments in Exodus 20:13 and Deuteronomy 5:17, which MAM keeps as
-   one verse, and Isaiah 63:19 with 64:1) they are joined. The generator checks that every Hebrew verse of every
-   book gets exactly one English verse.
-2. **Names of G-d.** "the LORD", "LORD" and "GOD" (the divine name) are written "HaShem", and "God" is written
-   "G-d". Everything else, including "Lord" (Adonai) and the English forms of other names (Moses, Abraham),
-   is unchanged.
+1. **Jewish verse numbering.** JPS 1917 numbers verses as the Hebrew does. eBible.org numbers them as English
+   (Christian) Bibles do and writes JPS's number in parentheses where it differs, at the start of a verse
+   (`GEN 31:55 (32-1) And early in the morning ...` is Genesis 32:1) or inside it where a Hebrew verse begins
+   (`NUM 26:1 (25-19) And it came to pass after the plague, (26-1) that the LORD spoke ...`). The generator uses
+   those numbers. Several English verses that are one Hebrew verse are joined (the four short commandments in
+   Exodus 20:13 and Deuteronomy 5:17, and Isaiah 63:19). It checks that every verse of the Hebrew text in
+   `Data\MAM` gets exactly one English verse.
+2. **Book openings.** The first words of each book are printed in capitals ("AND MOAB rebelled"); they get their
+   ordinary case ("And Moab rebelled").
+3. **Names of G-d.** "the LORD", "LORD" and "GOD" (the divine name) are written "HaShem", and "God" is written
+   "G-d". Everything else is unchanged.
 
-To update: download a newer `engwmb_vpl.zip`, then run
+To update: download a newer `engjps_vpl.zip`, then run
 
     cd Tools\EnglishGenerator
-    dotnet run -- <path>\engwmb_vpl.txt
+    dotnet run -- <path>\engjps_vpl.txt
 
-and update the download date and SHA-256 above.
+and update the date and SHA-256 above (and run Tools\DataManifest).
 
-These files replace the HNV-based English that came with TropeTrainer 4.1, which had no license statement and
-had verses misnumbered in several chapters (e.g. 1 Kings 5, Isaiah 9, Jeremiah 31, Zechariah 2).
+These files replace the English based on the World Messianic Bible (2026-10-20 to 2026-10-27).

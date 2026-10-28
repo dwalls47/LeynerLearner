@@ -18,7 +18,7 @@ Built with .NET 10 and Windows Forms; PDFs with [QuestPDF](https://www.questpdf.
 |---|---|
 | `LeynerLearner` | The app |
 | `LeynerLearnerX` | An experimental copy of the app (with Verse-per-line and Tikkun layouts) |
-| `Tools\EnglishGenerator` | Makes `Data\English` from the World Messianic Bible, renumbered to the Hebrew verses |
+| `Tools\EnglishGenerator` | Makes `Data\English` from the JPS 1917 translation (eBible.org), in the Hebrew verse numbering |
 | `Tools\ShevaNaGenerator` | Makes `Data\MAM\sheva-na.json` (which shevas are sounded) from Phonetic MAM |
 | `Tools\ShevaNaFont` | Builds the Hebrew Sheva Na font, with its corresponding source |
 | `Tools\DataManifest` | Checks and updates `Data\manifest.json`, and makes data packs for "Update data" |
@@ -34,6 +34,6 @@ The app's code is under the MIT license (`LICENSE`). Its data keeps the licenses
 | Hebrew text (`MAM`) | Miqra according to the Masorah, via MAM-basics | CC BY-SA 4.0 |
 | Transliteration and sounded shevas (`PhoneticMAM`, `MAM\sheva-na.json`) | Phonetic MAM | CC BY-SA 4.0 |
 | Reading schedules (`Hebcal`) | @hebcal/triennial, @hebcal/leyning | BSD-2-Clause |
-| English (`English`) | Based on the World Messianic Bible (eBible.org) | Public domain |
+| English (`English`) | JPS 1917, The Holy Scriptures According to the Masoretic Text (eBible.org) | Public domain |
 | Font (`Fonts`) | Hebrew Sheva Na, from Taamey D 0.921 | GPL-2.0 with font exception |
 | Font (`FrankRuhlLibre`, optional) | Frank Ruhl Libre Regular, unmodified (no trope marks) | OFL-1.1 |

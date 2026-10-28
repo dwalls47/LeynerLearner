@@ -16,7 +16,7 @@ public record Verse(int Chapter, int Number, string Hebrew, string? HebrewUpper,
 
 /// <summary>
 /// Torah and Prophets text: Hebrew from MAM (Miqra according to the Masorah, MAM-simple JSON, CC BY-SA 4.0
-/// — see Data\MAM\README.md) and English from the World Messianic Bible, renumbered to match (Data\English,
+/// — see Data\MAM\README.md) and English from the JPS 1917 translation, in the same verse numbering (Data\English,
 /// see its README.md).
 ///
 /// The MAM files are chosen so verse numbers match Hebcal's (Leningrad-style) numbering; see the README.

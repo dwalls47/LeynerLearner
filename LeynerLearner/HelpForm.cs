@@ -179,25 +179,29 @@ namespace LeynerLearner
                      "https://www.sefaria.org/topics/category/torah-portions");
 
             h.Subheading("English translation");
-            h.Text("The **English** option shows a translation based on the **World Messianic Bible** (also called the Hebrew " +
-                   "Names Version of the World English Bible), August 2022 text, from eBible.org " +
-                   "(https://ebible.org/find/details.php?id=engwmb). It is in the **public domain**: anyone may copy, change and " +
-                   "share it. Its name is a trademark, and a changed copy may not use it, so the app calls this text \"based on\" " +
-                   "the World Messianic Bible. It covers every book the app shows. Folder: Data\\English.");
-            h.Bullet("**Home page** (the World English Bible project, which includes the World Messianic Bible): https://worldenglish.bible/");
-            h.Bullet("**Home page** (the World Messianic Bible at eBible.org): https://ebible.org/find/show.php?id=engwmb");
-            h.Bullet("**Download** (all formats; the app uses the verse-per-line text, engwmb_vpl.zip): " +
-                     "https://ebible.org/find/details.php?id=engwmb");
+            h.Text("The **English** option shows the **JPS 1917** translation, \"The Holy Scriptures According to the Masoretic " +
+                   "Text\", published by the Jewish Publication Society of America in 1917. It was the standard Jewish English " +
+                   "translation for most of the twentieth century, made from the Hebrew text by Jewish scholars for Jewish " +
+                   "readers. Its English is in the style of its time (\"thou shalt\", \"unto\"). It is in the **public domain**: " +
+                   "anyone may copy, change and share it. It covers every book the app shows. Folder: Data\\English.");
+            h.Text("The app's copy comes from eBible.org's edition, which keeps each verse in a structured file. The Open " +
+                   "Siddur Project, which JPS supports in sharing the 1917 text, has the full text and the scanned book.");
+            h.Bullet("**Home page** (JPS 1917 at eBible.org): https://ebible.org/find/show.php?id=engjps");
+            h.Bullet("**Download** (all formats; the app uses the verse-per-line text, engjps_vpl.zip): " +
+                     "https://ebible.org/find/details.php?id=engjps");
+            h.Bullet("**The Open Siddur Project's page** (the full text as one file, and the scans): " +
+                     "https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/translations/tanakh-the-holy-scriptures-a-new-translation-jps-1917/");
+            h.Bullet("**About the translation:** https://en.wikipedia.org/wiki/Jewish_Publication_Society_of_America_Version");
+            h.Bullet("**The Jewish Publication Society:** https://jps.org/");
             h.Text("The app changes the published text in two ways:");
-            h.Bullet("**Jewish chapter and verse numbers.** Jewish and Christian Bibles divide some chapters and verses " +
-                     "differently. For example, Malachi 4:1-6 in English Bibles is Malachi 3:19-24 in the Hebrew, and " +
-                     "Deuteronomy 12:32 is 13:1. Every verse was moved to the numbering of the Hebrew text, so each English " +
-                     "verse appears beside the Hebrew verse it translates. A few English verses were divided or joined to " +
-                     "fit, such as the four short commandments \"Do not murder, do not commit adultery, do not steal, do not " +
-                     "bear false witness,\" which the Hebrew text counts as one verse.");
+            h.Bullet("**Jewish chapter and verse numbers.** JPS 1917 numbers verses as the Hebrew does, but eBible.org's " +
+                     "edition renumbers them as English Bibles do and keeps the Hebrew numbers alongside. The app uses the " +
+                     "Hebrew numbers, so each English verse appears beside the Hebrew verse it translates. For example, " +
+                     "Malachi 4:1-6 in Christian Bibles is Malachi 3:19-24, and Isaiah 9:6 is 9:5 (\"For a child is born unto " +
+                     "us\"). Where several English verses make one Hebrew verse, such as \"Thou shalt not murder. Thou shalt " +
+                     "not commit adultery. Thou shalt not steal. Thou shalt not bear false witness\", they are joined.");
             h.Bullet("**Names of G-d.** The divine name, which the translation writes \"the LORD,\" is written \"HaShem,\" and " +
-                     "\"God\" is written \"G-d,\" as many Jewish readers prefer. Other names keep their English forms " +
-                     "(Moses, Abraham).");
+                     "\"God\" is written \"G-d,\" as many Jewish readers prefer.");
             h.Text("Tools\\EnglishGenerator makes the files from eBible.org's download, so a newer edition can be brought in the " +
                    "same way; Data\\English\\README.md has the details.");
 

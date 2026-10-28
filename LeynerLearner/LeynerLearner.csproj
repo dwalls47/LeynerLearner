@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <!-- Hebrew text (MAM), English (World Messianic Bible), reading schedules (Hebcal) and the bundled font; see each folder's README.md -->
+    <!-- Hebrew text (MAM), English (JPS 1917), reading schedules (Hebcal) and the bundled font; see each folder's README.md -->
     <None Include="Data\**" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 

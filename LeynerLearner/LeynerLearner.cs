@@ -48,7 +48,7 @@ namespace LeynerLearner
         Occasion? Selected => cboOccasion.SelectedItem as Occasion;
         bool Israel => chkIsrael.Checked;
         HaftarahCustom Custom => (HaftarahCustom)cboHaftarah.SelectedIndex;
-        RenderOptions Options => new(cboFont.SelectedItem as string ?? "Times New Roman", (float)numSize.Value,
+        RenderOptions Options => new((cboFont.SelectedItem as FontItem)?.Name ?? "Times New Roman", (float)numSize.Value,
                                      (EnglishVersion)Math.Max(0, cboEnglish.SelectedIndex),
                                      (TransliterationStyle)Math.Max(0, cboTranslit.SelectedIndex));
 
@@ -70,11 +70,14 @@ namespace LeynerLearner
             cboHaftarah.Items.AddRange(Enum.GetNames<HaftarahCustom>());
             cboHaftarah.SelectedIndex = (int)HaftarahCustom.Ashkenazi;
 
-            var installed = FontFamily.Families.Select(f => f.Name).ToHashSet(StringComparer.OrdinalIgnoreCase);
-            foreach (var f in AvailableFonts) installed.Add(f.Family);
-            foreach (var name in installed.Order()) cboFont.Items.Add(name);
+            // Only fonts that can show pointed Hebrew (letters and vowels); those without trope marks are labelled.
+            var names = FontFamily.Families.Select(f => f.Name).Where(n => !n.StartsWith('@'))
+                                  .Concat(AvailableFonts.Select(f => f.Family)).Distinct(StringComparer.OrdinalIgnoreCase);
+            foreach (var name in names.Order(StringComparer.OrdinalIgnoreCase))
+                if (HebrewFonts.Check(name) is { Hebrew: true } coverage)
+                    cboFont.Items.Add(new FontItem(name, coverage.Trope));
             // The large sheva is drawn only by the bundled font, so it is the default font too.
-            cboFont.SelectedItem = ShevaNa.FontFamily;
+            SelectFont(ShevaNa.FontFamily);
             cboShevaNa.SelectedIndex = (int)ShevaNaStyle.LargeSheva;
             cboTranslit.SelectedIndex = (int)TransliterationStyle.Off;
             cboEnglish.SelectedIndex = (int)EnglishVersion.Off;
@@ -264,13 +267,22 @@ namespace LeynerLearner
             if (!updating && large && HebrewFontName != ShevaNa.FontFamily)
             {
                 updating = true;
-                cboFont.SelectedItem = ShevaNa.FontFamily;
+                SelectFont(ShevaNa.FontFamily);
                 updating = false;
             }
             RenderReading();
         }
 
-        string HebrewFontName => cboFont.SelectedItem as string ?? "";
+        string HebrewFontName => (cboFont.SelectedItem as FontItem)?.Name ?? "";
+
+        void SelectFont(string name) =>
+            cboFont.SelectedItem = cboFont.Items.Cast<FontItem>().FirstOrDefault(f => f.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
+
+        /// <summary>A font in the Font list: its name, and whether it has the trope marks.</summary>
+        sealed record FontItem(string Name, bool Trope)
+        {
+            public override string ToString() => Trope ? Name : $"{Name} (no trope)";
+        }
 
         const uint FR_PRIVATE = 0x10;
 

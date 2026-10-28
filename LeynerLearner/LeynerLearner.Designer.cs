@@ -309,6 +309,7 @@
             cboFont.Name = "cboFont";
             cboFont.Size = new Size(170, 23);
             cboFont.TabIndex = 6;
+            toolTip.SetToolTip(cboFont, "Fonts on this PC that have the Hebrew letters and vowels. \"(no trope)\": the font has no cantillation marks; they would be drawn from another font.");
             cboFont.SelectedIndexChanged += display_Changed;
             // 
             // lblSize

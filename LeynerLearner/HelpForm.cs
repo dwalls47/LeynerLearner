@@ -122,8 +122,38 @@ namespace LeynerLearner
                      "option keeps the added rafe marks.");
             h.Text("The font is loaded only while the app is running; it is not installed in Windows. Its license is the GNU GPL " +
                    "version 2 with a font-embedding exception, so PDFs that embed it are not themselves covered by the GPL. " +
-                   "Taamey D's license reserves its name, so a modified copy must have a new one; hence Hebrew Sheva Na. Its" +
+                   "Taamey D's license reserves its name, so a modified copy must have a new one; hence Hebrew Sheva Na. Its " +
                    "corresponding source (Taamey D's source package) and the build script are in Tools\\ShevaNaFont.");
+
+            h.Subheading("The Frank Ruhl Libre font");
+            h.Text("**Frank Ruhl Libre** is Yanek Iontef's open-source revival of Frank Rühl, the classic Hebrew typeface that " +
+                   "Rafael Frank designed in 1908-1910 and the most common Hebrew typeface in print. The app includes its Regular " +
+                   "weight, unchanged, and lists it in the **Font** list. It is under the **SIL Open Font License 1.1**, which " +
+                   "allows it to be bundled and shared with software. Folder: Data\\FrankRuhlLibre (SOURCE.md there tells where " +
+                   "it came from).");
+            h.Text("It has every letter and vowel point but **no trope marks**. With it, the trope is drawn from another font " +
+                   "and some marks sit slightly out of place, so it is best for reading with vowels only. For the Frank Rühl " +
+                   "style with trope, use Hebrew Sheva Na: its letters come from Taamey Frank CLM, also a Frank Rühl design.");
+            h.Bullet("**Home page and download** (all weights and formats): https://github.com/fontef/frankruhllibre");
+            h.Bullet("**Google Fonts page:** https://fonts.google.com/specimen/Frank+Ruhl+Libre");
+            h.Bullet("**The designer, Fontef:** http://fontef.com");
+            h.Text("**Adding the missing trope marks yourself.** Because Frank Ruhl Libre is under the Open Font License, anyone " +
+                   "may make a derivative font with the cantillation marks added, using a free font editor such as " +
+                   "**FontForge**. In outline:");
+            h.Bullet("Copy the trope marks (U+0591-U+05AF) from another font under the Open Font License, such as Noto Serif " +
+                     "Hebrew or Ezra SIL, and scale them to match Frank Ruhl Libre's vowels. Do not copy them from a GPL font " +
+                     "such as Taamey Frank CLM or Hebrew Sheva Na: the two licenses cannot be combined in one font.");
+            h.Bullet("Give each mark an anchor, so it attaches above or below the letter like the vowels do, and check that " +
+                     "trope and vowels under the same letter sit side by side rather than overlapping. This takes the most " +
+                     "care: look at real verses at a large size and adjust.");
+            h.Bullet("Optionally add the sounded sheva the way Hebrew Sheva Na does: a larger copy of the sheva that replaces " +
+                     "a sheva followed by the invisible joiner U+034F (Tools\\ShevaNaFont\\build_font.py in this project shows how).");
+            h.Bullet("Keep the Open Font License and the copyright notices of both fonts, and give the result a new name.");
+            h.Bullet("**FontForge** (free, for Windows, Mac and Linux): https://fontforge.org/ ; download: " +
+                     "https://fontforge.org/en-US/downloads/");
+            h.Bullet("**Noto Serif Hebrew** (all trope marks, Open Font License): https://fonts.google.com/noto/specimen/Noto+Serif+Hebrew");
+            h.Bullet("**Ezra SIL** (all trope marks, Open Font License): https://software.sil.org/ezra/");
+            h.Bullet("**The Open Font License and its FAQ** (what a derivative font must do): https://openfontlicense.org/ofl-faq/");
 
             h.Subheading("Reading schedules: Hebcal");
             h.Text("The triennial aliyot, the alternative triennial haftarot, the full-kriyah haftarot (Ashkenazi, Sephardi and " +

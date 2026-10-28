@@ -162,15 +162,20 @@ public static class DataStore
     /// (as long as any window uses the font), which would stop the data folder from being replaced or removed.
     /// Copies no longer in use are deleted.
     /// </summary>
-    public static string FontCopy(string font)
+    public static List<string> FontCopies(IEnumerable<string> fonts)
     {
         string dir = Path.Combine(AppDataDir, "Fonts");
         Directory.CreateDirectory(dir);
-        string copy = Path.Combine(dir, DataManifest.Hash(font) + Path.GetExtension(font));
-        if (!File.Exists(copy)) File.Copy(font, copy);
-        foreach (var other in Directory.EnumerateFiles(dir).Where(f => !f.Equals(copy, StringComparison.OrdinalIgnoreCase)))
+        var copies = new List<string>();
+        foreach (var font in fonts)
+        {
+            string copy = Path.Combine(dir, DataManifest.Hash(font) + Path.GetExtension(font));
+            if (!File.Exists(copy)) File.Copy(font, copy);
+            copies.Add(copy);
+        }
+        foreach (var other in Directory.EnumerateFiles(dir).Where(f => !copies.Contains(f, StringComparer.OrdinalIgnoreCase)))
             TryDelete(other);    // fails, harmlessly, for a copy another running copy of the app has loaded
-        return copy;
+        return copies;
     }
 
     /// <summary>What a pack changes, dataset by dataset: "MAM: 202e69e → 3f1c2aa (12 files changed)".</summary>

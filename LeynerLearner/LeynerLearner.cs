@@ -18,7 +18,18 @@ namespace LeynerLearner
         // The bundled Data folder, or an updated data pack in %LOCALAPPDATA% (see DataStore).
         DataStore.Choice data = null!;
         string dataDir => data.Dir;
-        string? loadedFont;
+        List<string> loadedFonts = [];
+
+        /// <summary>Fonts in the data folder (path within it, family name). Hebrew Sheva Na is required; the others
+        /// are loaded and listed only if their folder is there.</summary>
+        static readonly (string File, string Family)[] BundledFonts =
+        [
+            (@"Fonts\HebrewShevaNa.ttf", ShevaNa.FontFamily),
+            (@"FrankRuhlLibre\FrankRuhlLibre-Regular.ttf", "Frank Ruhl Libre"),
+        ];
+
+        IEnumerable<(string File, string Family)> AvailableFonts =>
+            BundledFonts.Where(f => f.Family == ShevaNa.FontFamily || File.Exists(Path.Combine(dataDir, f.File)));
         ScriptureText text = null!;
         LeyningData leyning = null!;
         ShevaNa shevaNa = null!;
@@ -59,7 +70,7 @@ namespace LeynerLearner
             cboHaftarah.SelectedIndex = (int)HaftarahCustom.Ashkenazi;
 
             var installed = FontFamily.Families.Select(f => f.Name).ToHashSet(StringComparer.OrdinalIgnoreCase);
-            installed.Add(ShevaNa.FontFamily);
+            foreach (var f in AvailableFonts) installed.Add(f.Family);
             foreach (var name in installed.Order()) cboFont.Items.Add(name);
             // The large sheva is drawn only by the bundled font, so it is the default font too.
             cboFont.SelectedItem = ShevaNa.FontFamily;
@@ -79,16 +90,16 @@ namespace LeynerLearner
             shevaNa = ShevaNa.Load(Path.Combine(dataDir, "MAM", "sheva-na.json"));
             phonetic = new PhoneticMam(Path.Combine(dataDir, "PhoneticMAM"), text);
 
-            // The bundled font (with the large sounded-sheva glyph) is loaded for this process only, from a copy,
-            // so the data folder can be replaced while the app runs.
-            string font = DataStore.FontCopy(Path.Combine(dataDir, "Fonts", "HebrewShevaNa.ttf"));
-            if (font != loadedFont)
+            // The bundled fonts (Hebrew Sheva Na has the large sounded-sheva glyph) are loaded for this process only,
+            // from copies, so the data folder can be replaced while the app runs.
+            var fonts = DataStore.FontCopies(AvailableFonts.Select(f => Path.Combine(dataDir, f.File)));
+            foreach (var old in loadedFonts.Except(fonts)) RemoveFontResourceEx(old, FR_PRIVATE, IntPtr.Zero);
+            foreach (var font in fonts.Except(loadedFonts))
             {
-                if (loadedFont != null) RemoveFontResourceEx(loadedFont, FR_PRIVATE, IntPtr.Zero);
                 AddFontResourceEx(font, FR_PRIVATE, IntPtr.Zero);
                 PdfRenderer.RegisterFont(font);
-                loadedFont = font;
             }
+            loadedFonts = fonts;
         }
 
         /// <summary>Runs a change to the installed data pack, then reloads the data and shows the same date again.</summary>

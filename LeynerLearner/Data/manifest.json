@@ -547,6 +547,42 @@
           "sha256": "79e336b8db72b0721903e4c1737c2c949d768c2cd542129691f49d2dae027587"
         }
       ]
+    },
+    {
+      "folder": "FrankRuhlLibre",
+      "name": "Frank Ruhl Libre (Regular), an optional font",
+      "source": "https://github.com/fontef/frankruhllibre (fonts/ttf/FrankRuhlLibre-Regular.ttf)",
+      "version": "6.004, commit 2372d1998e51dc011f86554c0d23f1ccf44afddf",
+      "spdx": "OFL-1.1",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Unmodified. Has vowels but no cantillation marks; see SOURCE.md. Optional: packs without this folder are valid.",
+      "files": [
+        {
+          "path": "AUTHORS.txt",
+          "size": 283,
+          "sha256": "4a6b335efa7c24da6b5dec3d66ce19cc100c3fe5d31b8de4b7e870907ecbf3ac"
+        },
+        {
+          "path": "CONTRIBUTORS.txt",
+          "size": 511,
+          "sha256": "f8e8ccf28d370a74ecc3b45c48aa8add728e2537727b288bfa4a25b466210d15"
+        },
+        {
+          "path": "FrankRuhlLibre-Regular.ttf",
+          "size": 98288,
+          "sha256": "20d7b981d876c9ddb0f9109c409b4e495b84f486457f6f220307de3afcf70e04"
+        },
+        {
+          "path": "OFL.txt",
+          "size": 4502,
+          "sha256": "59b8e1b6cb49d339b729a924fb3c2d892e5729a712f7540e2337d0db3bdfcca4"
+        },
+        {
+          "path": "SOURCE.md",
+          "size": 1760,
+          "sha256": "b9490358c9884ee63fcaf1ad4d025007efa3af4e79120b236d8d19c55e2ffcb5"
+        }
+      ]
     }
   ]
 }

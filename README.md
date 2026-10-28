@@ -36,3 +36,4 @@ The app's code is under the MIT license (`LICENSE`). Its data keeps the licenses
 | Reading schedules (`Hebcal`) | @hebcal/triennial, @hebcal/leyning | BSD-2-Clause |
 | English (`English`) | Based on the World Messianic Bible (eBible.org) | Public domain |
 | Font (`Fonts`) | Hebrew Sheva Na, from Taamey D 0.921 | GPL-2.0 with font exception |
+| Font (`FrankRuhlLibre`, optional) | Frank Ruhl Libre Regular, unmodified (no trope marks) | OFL-1.1 |

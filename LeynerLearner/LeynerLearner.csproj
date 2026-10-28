@@ -7,6 +7,10 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <!-- The app's version; Installer\build.ps1 gives the installer the same one. -->
+    <Version>1.0.0</Version>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <Product>Leyner Learner</Product>
     <!-- A lamed; made by Tools\AppIcon\make-icon.ps1 -->
     <ApplicationIcon>LeynerLearner.ico</ApplicationIcon>
   </PropertyGroup>
